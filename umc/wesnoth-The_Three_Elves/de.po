@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2013-03-10 18:00+0000\n"
+"POT-Creation-Date: 2013-03-28 16:36-0400\n"
 "PO-Revision-Date: 2013-03-10 22:52+0100\n"
 "Last-Translator: trewe <sjrs456@yahoo.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,9 +22,15 @@ msgid "TTE"
 msgstr "DDE"
 
 #. [campaign]: id=The_Three_Elves
-#: The_Three_Elves/_main.cfg:17
-msgid "Three elves have just begun their adventure in the northern swampland. Will they become heroes or will they be responsible for another undead expansion?\n"
-msgstr "Drei Elfen haben gerade ihr Abenteuer in der nördlichen Sümpfe begonnen. Werden sie zu Helden werden, oder werden sie die Verantwortung für einen anderen Untoten Erweiterung sein?\n"
+#: The_Three_Elves/_main.cfg:16
+msgid ""
+"Three elves have just begun their adventure in the northern swampland. Will "
+"they become heroes or will they be responsible for another undead "
+"expansion?\n"
+msgstr ""
+"Drei Elfen haben gerade ihr Abenteuer in der nördlichen Sümpfe begonnen. "
+"Werden sie zu Helden werden, oder werden sie die Verantwortung für einen "
+"anderen Untoten Erweiterung sein?\n"
 
 #. [campaign]: id=The_Three_Elves
 #: The_Three_Elves/_main.cfg:19
@@ -85,71 +91,83 @@ msgstr "1) in den Sumpf"
 
 #. [part]
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:23
-msgid "The Northern swamp is incredibly dangerous place full of undead, constantly seeking their vengeance against all living creatures. Only a fool would venture into these lands. Though three elven warriors have recently entered, looking for an adventure."
-msgstr "Die nördlichen Sümpfe sind ein unglaublich gefährlicher Ort voller Untoter, ständig auf der Suche nach ihrer Rache gegen alle Lebewesen. Nur ein Narr würde es in diesen Ländern wagen. Jedoch sind drei Elfen Helden seit kurzem auf der Suche nach einem Abenteuer."
+msgid ""
+"The Northern swamp is incredibly dangerous place full of undead, constantly "
+"seeking their vengeance against all living creatures. Only a fool would "
+"venture into these lands. Though three elven warriors have recently entered, "
+"looking for an adventure."
+msgstr ""
+"Die nördlichen Sümpfe sind ein unglaublich gefährlicher Ort voller Untoter, "
+"ständig auf der Suche nach ihrer Rache gegen alle Lebewesen. Nur ein Narr "
+"würde es in diesen Ländern wagen. Jedoch sind drei Elfen Helden seit kurzem "
+"auf der Suche nach einem Abenteuer."
 
 #. [part]
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:27
-msgid "Viliam Bur and Stanislav Hoferek wish you a lot of fun and, of course, many successful battles."
-msgstr "Viliam Bur und Stanislav Hoferek wünschen Ihnen viel Spaß und natürlich viele erfolgreiche Schlachten."
+msgid ""
+"Viliam Bur and Stanislav Hoferek wish you a lot of fun and, of course, many "
+"successful battles."
+msgstr ""
+"Viliam Bur und Stanislav Hoferek wünschen Ihnen viel Spaß und natürlich "
+"viele erfolgreiche Schlachten."
 
-#. [side]: type=Elvish Marshal, id=Merhil
-#. [side]: type=Elvish Captain, id=Merhil, id=Durondela, id=Aglarond, id=Roccondil
-#. [side]: type=Elvish Captain, id=Merhil
 #. [side]: id=Merhil, type=Elvish Captain
-#. [side]: type=Ruffian
-#. [side]: type=Elvish Captain, id=Merhil, id=Marionel, id=Zerenhil, id=Allas
-#. [side]: type=Elvish Captain, id=Captain Sparrow
-#. [side]: type=Silver Mage, id=Adena
-#. [side]: type=Orcish Warrior, id=Trohak
+#. [side]: id=Narven, type=White Mage
 #. [side]: type=Dwarvish Arcanister, id=Rihen
 #. [side]: type=Elvish Captain, id=Captain Jagr
-#. [side]: id=Narven, type=White Mage
+#. [side]: type=Elvish Captain, id=Captain Sparrow
+#. [side]: type=Elvish Captain, id=Merhil
+#. [side]: type=Elvish Captain, id=Merhil, id=Durondela, id=Aglarond, id=Roccondil
+#. [side]: type=Elvish Captain, id=Merhil, id=Marionel, id=Zerenhil, id=Allas
+#. [side]: type=Elvish Marshal, id=Merhil
+#. [side]: type=Orcish Warrior, id=Trohak
+#. [side]: type=Ruffian
+#. [side]: type=Silver Mage, id=Adena
 #. [side]: type=Spearman, id=Teddy
-#: The_Three_Elves/scenarios/7_Assassins.cfg:33
+#: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:35
+#: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:61
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:42
-#: The_Three_Elves/scenarios/4_The_great_march.cfg:47
-#: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:23
-#: The_Three_Elves/scenarios/Interlude_river_crossing.cfg:31
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:40
+#: The_Three_Elves/scenarios/4_The_great_march.cfg:47
+#: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:48
+#: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:110
+#: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:142
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:43
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:67
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:89
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:119
+#: The_Three_Elves/scenarios/7_Assassins.cfg:33
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:34
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:59
-#: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:48
-#: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:110
-#: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:142
-#: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:35
-#: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:61
+#: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:23
+#: The_Three_Elves/scenarios/Interlude_river_crossing.cfg:31
 msgid "teamname^Elves"
 msgstr "Elfen"
 
-#. [side]: type=Elvish Marshal, id=Merhil
-#. [side]: type=Elvish Captain, id=Merhil, id=Durondela, id=Aglarond, id=Roccondil
-#. [side]: type=Elvish Captain, id=Merhil
-#. [side]: id=Merhil, type=Elvish Captain
 #. [option]: id=Lahias
+#. [side]: id=Merhil, type=Elvish Captain
+#. [side]: type=Elvish Captain, id=Merhil
+#. [side]: type=Elvish Captain, id=Merhil, id=Durondela, id=Aglarond, id=Roccondil
 #. [side]: type=Elvish Captain, id=Merhil, id=Marionel, id=Zerenhil, id=Allas
-#: The_Three_Elves/scenarios/7_Assassins.cfg:43
+#. [side]: type=Elvish Marshal, id=Merhil
+#: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:38
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:46
+#: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:43
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:50
+#: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:51
+#: The_Three_Elves/scenarios/6_Final_assault.cfg:48
+#: The_Three_Elves/scenarios/7_Assassins.cfg:43
+#: The_Three_Elves/scenarios/8_A_new_alliance.cfg:43
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:25
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:168
-#: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:43
-#: The_Three_Elves/scenarios/6_Final_assault.cfg:48
-#: The_Three_Elves/scenarios/8_A_new_alliance.cfg:43
-#: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:51
-#: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:38
 msgid "Merhil"
 msgstr "Merhil"
 
-#. [side]: type=Spearman, id=Teddy
 #. [side]: type=Bone Shooter, id=Teddy
+#. [side]: type=Spearman, id=Teddy
+#: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:64
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:89
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:86
-#: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:64
 msgid "Teddy"
 msgstr "Teddy"
 
@@ -159,36 +177,36 @@ msgstr "Teddy"
 msgid "Blob"
 msgstr "Blob"
 
-#. [side]: type=Deathblade, id=Marius
-#. [side]: type=Orcish Warlord, id=Narok
-#. [side]: type=Lich, id=Tademanar
-#. [side]: type=Bone Shooter, id=Teddy
 #. [side]: type=Bone Shooter, id=Herbert
-#. [side]: type=Orcish Warrior, id=Nashtok
+#. [side]: type=Bone Shooter, id=Teddy
+#. [side]: type=Dark Adept, type=Dark Sorcerer, id=Kad'Len
+#. [side]: type=Dark Sorcerer, id=Mal'Der
 #. [side]: type=Death Knight, id=Lahias
-#. [side]: type=Orcish Warrior, id=Tursakk
-#. [side]: type=Troll, id=Rootkit
+#. [side]: type=Deathblade, id=Marius
 #. [side]: type=Goblin Pillager, id=Tarku
 #. [side]: type=Lich, id=Fan'to'mas
+#. [side]: type=Lich, id=Tademanar
 #. [side]: type=Nightgaunt, id=Ghost of Navigator
-#. [side]: type=Dark Sorcerer, id=Mal'Der
-#. [side]: type=Dark Adept, type=Dark Sorcerer, id=Kad'Len
-#: The_Three_Elves/scenarios/4_The_great_march.cfg:92
-#: The_Three_Elves/scenarios/4_The_great_march.cfg:113
-#: The_Three_Elves/scenarios/Interlude_river_crossing.cfg:46
+#. [side]: type=Orcish Warlord, id=Narok
+#. [side]: type=Orcish Warrior, id=Nashtok
+#. [side]: type=Orcish Warrior, id=Tursakk
+#. [side]: type=Troll, id=Rootkit
+#: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:85
+#: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:119
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:83
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:105
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:127
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:184
-#: The_Three_Elves/scenarios/6_Final_assault.cfg:152
-#: The_Three_Elves/scenarios/6_Final_assault.cfg:172
-#: The_Three_Elves/scenarios/6_Final_assault.cfg:192
+#: The_Three_Elves/scenarios/4_The_great_march.cfg:92
+#: The_Three_Elves/scenarios/4_The_great_march.cfg:113
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:164
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:184
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:204
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:224
-#: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:85
-#: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:119
+#: The_Three_Elves/scenarios/6_Final_assault.cfg:152
+#: The_Three_Elves/scenarios/6_Final_assault.cfg:172
+#: The_Three_Elves/scenarios/6_Final_assault.cfg:192
+#: The_Three_Elves/scenarios/Interlude_river_crossing.cfg:46
 msgid "teamname^Undead"
 msgstr "Untote"
 
@@ -203,31 +221,47 @@ msgid "Kad'Len"
 msgstr "Kad'Len"
 
 #. [message]: speaker=narrator
-#: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:175
+#: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:165
 msgid ""
 "Greetings! My name is Lahias. Choose the path which I shall follow.\n"
 "\n"
-"I can become a dexterous archer, a sturdy fighter, balanced hunter or a quick scout. Everything is in your hands, now. These tips may help you:\n"
+"I can become a dexterous archer, a sturdy fighter, balanced hunter or a "
+"quick scout. Everything is in your hands, now. These tips may help you:\n"
 "\n"
-"As <b>Archer</b> he excels in ranged attacks. He is unmatched in the forests, but he's also very vulnerable out of them. He may also learn how to conceal himself in the woods.\n"
+"As <b>Archer</b> he excels in ranged attacks. He is unmatched in the "
+"forests, but he's also very vulnerable out of them. He may also learn how to "
+"conceal himself in the woods.\n"
 "\n"
-"The <b>Fighter</b> endures most of the melee combats and disposes of remarkable defense. He may also learn the leadership ability in time.\n"
+"The <b>Fighter</b> endures most of the melee combats and disposes of "
+"remarkable defense. He may also learn the leadership ability in time.\n"
 "\n"
-"<b>Hunters</b> are a very versatile unit, very useful at nightime, but weak during day. His power will grow rapidly with time.\n"
+"<b>Hunters</b> are a very versatile unit, very useful at nightime, but weak "
+"during day. His power will grow rapidly with time.\n"
 "\n"
-"The <b>Scout</b> is great at exploring and quick diversions on the battlefield but misses the attack force. It is NOT a very wise choice for this campaign."
+"The <b>Scout</b> is great at exploring and quick diversions on the "
+"battlefield but misses the attack force. It is NOT a very wise choice for "
+"this campaign."
 msgstr ""
 "Willkommen! Mein Name ist Lahias. Wähle den Weg, den ich folgen soll.\n"
 "\n"
-"Ich kann ein geschickter Bogenschütze, ein robustes Kämpfer, ein ausgewogener Jäger oder ein schneller Späher werden. Alles liegt in deinen Händen. Diese Tipps können dir helfen:\n"
+"Ich kann ein geschickter Bogenschütze, ein robustes Kämpfer, ein "
+"ausgewogener Jäger oder ein schneller Späher werden. Alles liegt in deinen "
+"Händen. Diese Tipps können dir helfen:\n"
 "\n"
-"Der <b>Bogenschütze</b> zeichnet sich in Fernangriffe aus. Er ist unübertroffen in den Wäldern, aber er ist auch sehr verletzlich außerhalb von ihnen. Er kann auch lernen, wie man sich im Wald versteckt.\n"
+"Der <b>Bogenschütze</b> zeichnet sich in Fernangriffe aus. Er ist "
+"unübertroffen in den Wäldern, aber er ist auch sehr verletzlich außerhalb "
+"von ihnen. Er kann auch lernen, wie man sich im Wald versteckt.\n"
 "\n"
-"Der <b>Kämpfer</b> erträgt die meisten Kämpfe im Nahkampf und verfügt über eine bemerkenswerte Verteidigung. Er kann auch mit der Zeit ein erfahrener Anführer werden.\n"
+"Der <b>Kämpfer</b> erträgt die meisten Kämpfe im Nahkampf und verfügt über "
+"eine bemerkenswerte Verteidigung. Er kann auch mit der Zeit ein erfahrener "
+"Anführer werden.\n"
 "\n"
-"<b>Jäger</b> sind eine sehr vielseitige Einheit, sehr nützlich bei Nacht, aber schwach am Tage. Seine Macht wird schnell wachsen mit der Zeit.\n"
+"<b>Jäger</b> sind eine sehr vielseitige Einheit, sehr nützlich bei Nacht, "
+"aber schwach am Tage. Seine Macht wird schnell wachsen mit der Zeit.\n"
 "\n"
-"Späher sind gut bei der Erforschung und schnellen Ablenkungen auf dem Schlachtfeld, aber verfehlen den Angriff zu erzwingen. Es ist keine sehr kluge Wahl für diese Kampagne."
+"Späher sind gut bei der Erforschung und schnellen Ablenkungen auf dem "
+"Schlachtfeld, aber verfehlen den Angriff zu erzwingen. Es ist keine sehr "
+"kluge Wahl für diese Kampagne."
 
 #. [message]: speaker=narrator
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:180
@@ -239,11 +273,11 @@ msgstr "Wähle Lahias' Einheit"
 #. [unit]: type=Elvish Fighter, id=Lahias
 #. [unit]: type=Elvish Hunter, id=Lahias
 #. [unit]: type=Elvish Scout, id=Lahias
-#: The_Three_Elves/scenarios/6_Final_assault.cfg:155
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:191
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:211
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:232
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:252
+#: The_Three_Elves/scenarios/6_Final_assault.cfg:155
 msgid "Lahias"
 msgstr "Lahias"
 
@@ -264,18 +298,36 @@ msgstr "<i>Späher <small>(nicht empfohlen)</small></i>"
 
 #. [message]: id=Teddy
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:278
-msgid "Oh no, the undead! There is nothing interesting here. Go back from where you came, foul creatures! You won't get our souls."
-msgstr "Oh nein, die Untoten! Es gibt nichts Interessantes hier. Geht zurück, von wo ihr gekommen seid, widerlichen Kreaturen! Ihr werdet nicht unsere Seelen bekommen."
+msgid ""
+"Oh no, the undead! There is nothing interesting here. Go back from where you "
+"came, foul creatures! You won't get our souls."
+msgstr ""
+"Oh nein, die Untoten! Es gibt nichts Interessantes hier. Geht zurück, von wo "
+"ihr gekommen seid, widerlichen Kreaturen! Ihr werdet nicht unsere Seelen "
+"bekommen."
 
 #. [message]: id=Mal'Der
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:282
-msgid "Filthy peasants! Your souls are worthless, but your corpses will serve us well. And once we are finished here, we will move to the neighbouring villages. More mindless slaves to our command. Excellent!"
-msgstr "Schmutzige Bauern! Eure Seelen sind wertlos, aber eure Leichen werden uns gute Dienste leisten. Und wenn wir hier fertig sind, werden wir auf die umliegenden Dörfer zu bewegen. Mehr hirnlose Sklaven auf unseren Befehl. Sehr gut!"
+msgid ""
+"Filthy peasants! Your souls are worthless, but your corpses will serve us "
+"well. And once we are finished here, we will move to the neighbouring "
+"villages. More mindless slaves to our command. Excellent!"
+msgstr ""
+"Schmutzige Bauern! Eure Seelen sind wertlos, aber eure Leichen werden uns "
+"gute Dienste leisten. Und wenn wir hier fertig sind, werden wir auf die "
+"umliegenden Dörfer zu bewegen. Mehr hirnlose Sklaven auf unseren Befehl. "
+"Sehr gut!"
 
 #. [message]: id=Teddy
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:286
-msgid "You leave us no other choice than to take our weapons and put your dark magic to an end. I know of your troops on our side of the river. We are not scared of you. To arms, men!"
-msgstr "Ihr lasst uns keine andere Wahl, als unsere Waffen zu ergreifen und eure dunkle Magie zu Ende bringen. Ich kenne deine Truppen auf unserer Seite des Flusses. Wir haben keine Angst vor dir. Zu den Waffen, Männer!"
+msgid ""
+"You leave us no other choice than to take our weapons and put your dark "
+"magic to an end. I know of your troops on our side of the river. We are not "
+"scared of you. To arms, men!"
+msgstr ""
+"Ihr lasst uns keine andere Wahl, als unsere Waffen zu ergreifen und eure "
+"dunkle Magie zu Ende bringen. Ich kenne deine Truppen auf unserer Seite des "
+"Flusses. Wir haben keine Angst vor dir. Zu den Waffen, Männer!"
 
 #. [event]: id=Nerelia
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:294
@@ -284,13 +336,21 @@ msgstr "Nerelia"
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:305
-msgid "What is it in front of me? It seams we arrived just in time. Can you spare some fun for us?"
-msgstr "Was ist das vor mir? Es scheint, wir kommen gerade noch rechtzeitig. Könnt ihr Spaß für uns aufheben?"
+msgid ""
+"What is it in front of me? It seams we arrived just in time. Can you spare "
+"some fun for us?"
+msgstr ""
+"Was ist das vor mir? Es scheint, wir kommen gerade noch rechtzeitig. Könnt "
+"ihr Spaß für uns aufheben?"
 
 #. [message]: id=Mal'Der
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:309
-msgid "Let me see... Elves! What a fortunate coincidence. They will make excellent skeletons or perharps even ghosts. Attack, my minions!"
-msgstr "Laß mich sehen ... Elfen! Was für ein glücklicher Zufall. Sie machen gute Skelette oder sogar Gespenster. Zum Angriff, mein Diener!"
+msgid ""
+"Let me see... Elves! What a fortunate coincidence. They will make excellent "
+"skeletons or perharps even ghosts. Attack, my minions!"
+msgstr ""
+"Laß mich sehen ... Elfen! Was für ein glücklicher Zufall. Sie machen gute "
+"Skelette oder sogar Gespenster. Zum Angriff, mein Diener!"
 
 #. [message]: id=Teddy
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:313
@@ -304,23 +364,54 @@ msgstr "Hm, das sieht vielversprechend aus. Und wie viel Gold habt ihr?"
 
 #. [message]: id=Teddy
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:321
-msgid "Well, actually... We don't have any gold here with us. But, uhm... We can surely get you some. There is a great treasure burried near the river. It is a chest filled with gold! According to the legend, the chest is north-east of here, close to the old river basin. Somewhere in the center of this region. It was hidden by Alfred Mahel, famous master lumberjack. You can keep half of the entire treasure, if you manage to find it."
-msgstr "Na ja, eigentlich... Wir haben kein Gold hier bei uns. Aber, ähm... Wir können sicherlich welches finden. Es gibt ein großen Schatz in der Nähe des Flusses begraben. Es ist eine Truhe voller Gold! Nach der Legende, ist die Truhe nordöstlich von hier, in der Nähe der alten Flussgebiete. Irgendwo in der Mitte dieser Region. Es wurde von Alfred Mahel, den berühmten Meister Holzfäller versteckt. Ihr könnt die Hälfte des gesamten Schatz, wenn ihr ihn findet, verwalten."
+msgid ""
+"Well, actually... We don't have any gold here with us. But, uhm... We can "
+"surely get you some. There is a great treasure burried near the river. It is "
+"a chest filled with gold! According to the legend, the chest is north-east "
+"of here, close to the old river basin. Somewhere in the center of this "
+"region. It was hidden by Alfred Mahel, famous master lumberjack. You can "
+"keep half of the entire treasure, if you manage to find it."
+msgstr ""
+"Na ja, eigentlich... Wir haben kein Gold hier bei uns. Aber, ähm... Wir "
+"können sicherlich welches finden. Es gibt ein großen Schatz in der Nähe des "
+"Flusses begraben. Es ist eine Truhe voller Gold! Nach der Legende, ist die "
+"Truhe nordöstlich von hier, in der Nähe der alten Flussgebiete. Irgendwo in "
+"der Mitte dieser Region. Es wurde von Alfred Mahel, den berühmten Meister "
+"Holzfäller versteckt. Ihr könnt die Hälfte des gesamten Schatz, wenn ihr ihn "
+"findet, verwalten."
 
 #. [message]: id=Mal'Der
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:325
-msgid "Prepare to die painfully! You will become my slaves and serve me for centuries!"
-msgstr "Bereitet euch darauf schmerzhaft zu sterben! Ihr werdet meine Sklaven werden und mir über Jahrhunderte dienen!"
+msgid ""
+"Prepare to die painfully! You will become my slaves and serve me for "
+"centuries!"
+msgstr ""
+"Bereitet euch darauf schmerzhaft zu sterben! Ihr werdet meine Sklaven werden "
+"und mir über Jahrhunderte dienen!"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:329
-msgid "A few black-dressed clowns out of their mind and a chest full of gold ahead! Let the fun begin!"
-msgstr "Ein paar schwarz gekleidete Clowns und eine Truhe voller Gold voraus! Der Spaß kann beginnen!"
+msgid ""
+"A few black-dressed clowns out of their mind and a chest full of gold ahead! "
+"Let the fun begin!"
+msgstr ""
+"Ein paar schwarz gekleidete Clowns und eine Truhe voller Gold voraus! Der "
+"Spaß kann beginnen!"
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:334
-msgid "Beware, Lahias! Don't run into the hardest battle. You won't have good chances to survive on your own. Remember, your attack is much stronger when you are fighting close to Merhil. The dark sorcerers have a very powerful attack. Though I can slow them with my magic before fighting them face to face."
-msgstr "Vorsicht, Lahias! Geh nicht in die härteste Schlacht . Du wirst nicht gute Chancen haben, auf eigene Faust zu überleben. Denk daran, dein Angriff ist viel stärker, wenn du in der Nähe von Merhil kämpfst. Die dunklen Hexenmeister haben einen sehr mächtigen Angriff. Obwohl ich sie mit meinem Zauber verlangsamen kann, bevor ihr sie bekämpft."
+msgid ""
+"Beware, Lahias! Don't run into the hardest battle. You won't have good "
+"chances to survive on your own. Remember, your attack is much stronger when "
+"you are fighting close to Merhil. The dark sorcerers have a very powerful "
+"attack. Though I can slow them with my magic before fighting them face to "
+"face."
+msgstr ""
+"Vorsicht, Lahias! Geh nicht in die härteste Schlacht . Du wirst nicht gute "
+"Chancen haben, auf eigene Faust zu überleben. Denk daran, dein Angriff ist "
+"viel stärker, wenn du in der Nähe von Merhil kämpfst. Die dunklen "
+"Hexenmeister haben einen sehr mächtigen Angriff. Obwohl ich sie mit meinem "
+"Zauber verlangsamen kann, bevor ihr sie bekämpft."
 
 #. [objective]: condition=win
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:342
@@ -335,12 +426,17 @@ msgstr "Finde den versteckten Schatz"
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:367
 msgid "The undead have been eliminated and you managed to find the treasure."
-msgstr "Die Untoten wurden eliminiert und Ihnen ist es gelungen den Schatz zu finden."
+msgstr ""
+"Die Untoten wurden eliminiert und Ihnen ist es gelungen den Schatz zu finden."
 
 #. [message]: id=Teddy
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:371
-msgid "Many thanks for your assistance, good elves! You will always be welcomed in our village."
-msgstr "Vielen Dank für Eure Hilfe, gute Elfen! Ihr werdet immer in unserem Dorf willkommen geheißen werden."
+msgid ""
+"Many thanks for your assistance, good elves! You will always be welcomed in "
+"our village."
+msgstr ""
+"Vielen Dank für Eure Hilfe, gute Elfen! Ihr werdet immer in unserem Dorf "
+"willkommen geheißen werden."
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:375
@@ -354,23 +450,42 @@ msgstr "Hey, warte! Was ist mit dem Schatz? Unser Anteil... Gebt es uns."
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:383
-msgid "You are mistaken, good man. There is no gold for you. The treasure is at good hands now - ours. Do you want is? Come to take it!"
-msgstr "Du irrst, guter Mann. Es gibt kein Gold für euch. Der Schatz ist jetzt in guten Händen - unseren. Willst du ihn? Kommt es nehmen!"
+msgid ""
+"You are mistaken, good man. There is no gold for you. The treasure is at "
+"good hands now - ours. Do you want is? Come to take it!"
+msgstr ""
+"Du irrst, guter Mann. Es gibt kein Gold für euch. Der Schatz ist jetzt in "
+"guten Händen - unseren. Willst du ihn? Kommt es nehmen!"
 
 #. [message]: id=Teddy
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:387
-msgid "Aaagrh! You will regret that! The waters of the river will lower soon. Then our onited army will get that treasure... And your inhuman skulls as well!"
-msgstr "Aaagrh! Du wirst es bereuen! Das Wasser des Flusses wird in Kürze senken. Dann wird unser vereinigtes Heer den Schatz erhalten... Und eure unmenschlichen Schädel ebenso!"
+msgid ""
+"Aaagrh! You will regret that! The waters of the river will lower soon. Then "
+"our onited army will get that treasure... And your inhuman skulls as well!"
+msgstr ""
+"Aaagrh! Du wirst es bereuen! Das Wasser des Flusses wird in Kürze senken. "
+"Dann wird unser vereinigtes Heer den Schatz erhalten... Und eure "
+"unmenschlichen Schädel ebenso!"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:391
-msgid "Oh, we are sooo scared! These <i>bloodthirsty</i> peasants are going to fight us. Did you hear that, my friends? Rather put down your weapons and draw feathers instead, we don't want to hurt them too much."
-msgstr "Ach, wir sind ja sooo geängstigt! Diese <i>blutrünstigen</i> Bauern werden uns bekämpfen. Habt ihr das gehört, meine Freunde? Eher legt die Waffen nieder und zieht Federn, wir wollen euch nicht zu sehr verletzten."
+msgid ""
+"Oh, we are sooo scared! These <i>bloodthirsty</i> peasants are going to "
+"fight us. Did you hear that, my friends? Rather put down your weapons and "
+"draw feathers instead, we don't want to hurt them too much."
+msgstr ""
+"Ach, wir sind ja sooo geängstigt! Diese <i>blutrünstigen</i> Bauern werden "
+"uns bekämpfen. Habt ihr das gehört, meine Freunde? Eher legt die Waffen "
+"nieder und zieht Federn, wir wollen euch nicht zu sehr verletzten."
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/1_Into_the_swamp.cfg:395
-msgid "They are ridiculous! We can hire enough warriors to defeat whole legion of peasants or undead."
-msgstr "Sie sind lächerlich! Wir können genug Krieger anheuern um ganze Legione von Bauern oder Untoten zu besiegen."
+msgid ""
+"They are ridiculous! We can hire enough warriors to defeat whole legion of "
+"peasants or undead."
+msgstr ""
+"Sie sind lächerlich! Wir können genug Krieger anheuern um ganze Legione von "
+"Bauern oder Untoten zu besiegen."
 
 #. [scenario]: id=2_the_golden_chest
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:5
@@ -379,8 +494,16 @@ msgstr "2) Die goldene Truhe"
 
 #. [part]
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:23
-msgid "The gold is a treacherous thing. It's glittering glance caused more troubles than anything else did throughout the history. It can cause friendships to fall apart and make recent allies become sworn enemies. Enemies prepared to slaughter each other without hesitation."
-msgstr "Das Gold ist eine tückische Sache. Sein glitzernden Blick verursacht mehr Probleme als alles andere tat in der Geschichte. Es kann dazu führen, dass Freundschaften auseinanderfallen und die letzten Verbündete Todfeinde werden. Und sich Feinde gegenseitig abschlachten, ohne zu zögern ."
+msgid ""
+"The gold is a treacherous thing. It's glittering glance caused more troubles "
+"than anything else did throughout the history. It can cause friendships to "
+"fall apart and make recent allies become sworn enemies. Enemies prepared to "
+"slaughter each other without hesitation."
+msgstr ""
+"Das Gold ist eine tückische Sache. Sein glitzernden Blick verursacht mehr "
+"Probleme als alles andere tat in der Geschichte. Es kann dazu führen, dass "
+"Freundschaften auseinanderfallen und die letzten Verbündete Todfeinde "
+"werden. Und sich Feinde gegenseitig abschlachten, ohne zu zögern ."
 
 #. [side]: type=Elvish Captain, id=Merhil, id=Durondela, id=Aglarond, id=Roccondil
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:51
@@ -397,24 +520,24 @@ msgstr "Aglarond"
 msgid "Roccondil"
 msgstr "Roccondil"
 
-#. [side]: type=Spearman, id=Teddy
-#. [side]: type=Poacher, type=Trapper, id=Herbert
 #. [side]: type=Elvish Avenger, id=Samin
+#. [side]: type=Poacher, type=Trapper, id=Herbert
+#. [side]: type=Spearman, id=Teddy
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:84
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:114
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:134
 msgid "teamname^Villagers"
 msgstr "Dörfler"
 
-#. [side]: type=Poacher, type=Trapper, id=Herbert
 #. [side]: type=Bone Shooter, id=Herbert
+#. [side]: type=Poacher, type=Trapper, id=Herbert
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:118
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:108
 msgid "Herbert"
 msgstr "Herbert"
 
-#. [side]: type=Elvish Avenger, id=Samin
 #. [option]: id=Lahias
+#. [side]: type=Elvish Avenger, id=Samin
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:139
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:189
 msgid "Samin Leafstel"
@@ -432,37 +555,57 @@ msgstr "Zwingt Samin zur Übergabe"
 
 #. [message]: id=Teddy
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:202
-msgid "Time for our revenge has come! Surrender to the united forces of our villages!"
-msgstr "Die Zeit für unsere Rache ist gekommen! Ergebt euch den vereinten Kräften unserer Dörfer!"
+msgid ""
+"Time for our revenge has come! Surrender to the united forces of our "
+"villages!"
+msgstr ""
+"Die Zeit für unsere Rache ist gekommen! Ergebt euch den vereinten Kräften "
+"unserer Dörfer!"
 
 #. [message]: id=Lahias
-#: The_Three_Elves/scenarios/2_The_golden_chest.cfg:207
+#: The_Three_Elves/scenarios/2_The_golden_chest.cfg:206
 msgid ""
 "Oh, and what about this? Take your pitchforks and go back home before...\n"
 "WHAT THE HELL IS THAT RANGER DOING HERE?"
 msgstr ""
-"Oh, und was ist das? Nehmt eure Mistgabeln und geht zurück nach Hause, bevor...\n"
+"Oh, und was ist das? Nehmt eure Mistgabeln und geht zurück nach Hause, "
+"bevor...\n"
 "WAS ZUM TEUFEL MACHT DIESER WALDLÄUFER HIER?"
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:211
-msgid "My name is Samin Leafstel and I am the chief of one of these human villages. How did I become what I am is not your business. Here I stand to destroy anyone who threatens my new home."
-msgstr "Mein Name ist Samin Leafstel und ich bin der Häuptling eines dieser Menschen Dörfer. Wie ich geworden bin, was ich bin, ist nicht eure Sache. Und ich zerstöre jedem, der meine neue Heimat bedroht."
+msgid ""
+"My name is Samin Leafstel and I am the chief of one of these human villages. "
+"How did I become what I am is not your business. Here I stand to destroy "
+"anyone who threatens my new home."
+msgstr ""
+"Mein Name ist Samin Leafstel und ich bin der Häuptling eines dieser Menschen "
+"Dörfer. Wie ich geworden bin, was ich bin, ist nicht eure Sache. Und ich "
+"zerstöre jedem, der meine neue Heimat bedroht."
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:215
-msgid "Brother?! You're alive! What are you doing here? Do you not recognize me?"
+msgid ""
+"Brother?! You're alive! What are you doing here? Do you not recognize me?"
 msgstr "Bruder?! Du lebst! Was machst du denn hier? Erkennst du mich nicht?"
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:219
-msgid "I do recognize you quite well, my stray sister. Heed my words - your deads will not be left unpunished. I cannot let you live after what you have done to these villagers. None of you. Prepare to die!"
-msgstr "Ich erkenne dich ganz gut, meine verirrte Schwester. Beachtet meine Worte - eure Toten werden nicht straflos bleiben. Ich kann dich nicht am leben lassen nach dem was mit diesen Dorfbewohnern geschehen Niemand von euch. Bereitet euch vor zu sterben!"
+msgid ""
+"I do recognize you quite well, my stray sister. Heed my words - your deads "
+"will not be left unpunished. I cannot let you live after what you have done "
+"to these villagers. None of you. Prepare to die!"
+msgstr ""
+"Ich erkenne dich ganz gut, meine verirrte Schwester. Beachtet meine Worte - "
+"eure Toten werden nicht straflos bleiben. Ich kann dich nicht am leben "
+"lassen nach dem was mit diesen Dorfbewohnern geschehen Niemand von euch. "
+"Bereitet euch vor zu sterben!"
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:228
 msgid "Mermen of the far seas, I call you to our side."
-msgstr "Wassermänner von weit draußen auf See, Ich rufe euch auf unserer Seite."
+msgstr ""
+"Wassermänner von weit draußen auf See, Ich rufe euch auf unserer Seite."
 
 #. [message]: id=Teddy
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:251
@@ -486,13 +629,17 @@ msgstr "Meine Freunde werden mich rächen!"
 
 #. [message]: id=Veralas
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:284
-msgid "I saw a group of undead heading this way. We must prepare for their arrival."
-msgstr "Ich sah eine Gruppe von Untoten Richtung hier. Wir müssen uns für ihre Ankunft vorbereiten."
+msgid ""
+"I saw a group of undead heading this way. We must prepare for their arrival."
+msgstr ""
+"Ich sah eine Gruppe von Untoten Richtung hier. Wir müssen uns für ihre "
+"Ankunft vorbereiten."
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:297
 msgid "We will miss you, Durondela. What future awaits us without you?"
-msgstr "Wir werden dich vermissen, Durondela. Welche Zukunft erwartet uns ohne dich?"
+msgstr ""
+"Wir werden dich vermissen, Durondela. Welche Zukunft erwartet uns ohne dich?"
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:311
@@ -501,13 +648,20 @@ msgstr "Irgendwelche letzten Worte?"
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:315
-msgid "Wait! Don't kill me, I can be useful to you. I was up to take a journey westwards to seek help of the Brotherhood of Light. I've heard rumors about their secret weapon against those wretched undead."
-msgstr "Warte! Töte mich nicht, ich kann für euch nützlich sein. Ich war auf einer Reise nach Westen, um die Bruderschaft des Lichts zu suchen. Ich habe Gerüchte über ihre Geheimwaffe gegen diese elenden Untoten gehört."
+msgid ""
+"Wait! Don't kill me, I can be useful to you. I was up to take a journey "
+"westwards to seek help of the Brotherhood of Light. I've heard rumors about "
+"their secret weapon against those wretched undead."
+msgstr ""
+"Warte! Töte mich nicht, ich kann für euch nützlich sein. Ich war auf einer "
+"Reise nach Westen, um die Bruderschaft des Lichts zu suchen. Ich habe "
+"Gerüchte über ihre Geheimwaffe gegen diese elenden Untoten gehört."
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:319
 msgid "Liar! You thought these lies will save your life? Merhil, kill him."
-msgstr "Lügner! Du dachtest diese Lügen werden dein Leben retten? Merhil, töte ihn."
+msgstr ""
+"Lügner! Du dachtest diese Lügen werden dein Leben retten? Merhil, töte ihn."
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:323
@@ -522,22 +676,31 @@ msgstr "Sie sind es, das schwöre ich..."
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:331
 msgid "Let him prove it. He may be a valuable ally. What do you say, Nerelia?"
-msgstr "Laßt ihn es beweisen. Er kann ein wertvoller Verbündeter sein. Was sagst du, Nerelia?"
+msgstr ""
+"Laßt ihn es beweisen. Er kann ein wertvoller Verbündeter sein. Was sagst du, "
+"Nerelia?"
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:335
 msgid "Please, Nerelia, forgive me! I never really meant to hurt you..."
-msgstr "Bitte Nerelia, vergib mir! Ich habe nie wirklich gedacht dich zu verletzen..."
+msgstr ""
+"Bitte Nerelia, vergib mir! Ich habe nie wirklich gedacht dich zu verletzen..."
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:339
-msgid "I hope I won't have to regret this... Let him go. ou are now obliged to Lahias, my brother."
-msgstr "Ich hoffe, ich werde es nicht bereuen ... Lass ihn gehen. ou sind jetzt Lahias, mein Bruder verpflichtet."
+msgid ""
+"I hope I won't have to regret this... Let him go. ou are now obliged to "
+"Lahias, my brother."
+msgstr ""
+"Ich hoffe, ich werde es nicht bereuen ... Lass ihn gehen. ou sind jetzt "
+"Lahias, mein Bruder verpflichtet."
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:343
 msgid "Thank you! Next time we meet, I will save HIS life. Farewell for now."
-msgstr "Danke! Das nächste Mal wenn wir uns treffen werde ich sein Leben retten. Leb wohl für jetzt."
+msgstr ""
+"Danke! Das nächste Mal wenn wir uns treffen werde ich sein Leben retten. Leb "
+"wohl für jetzt."
 
 #. [message]: id=Teddy
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:363
@@ -556,8 +719,12 @@ msgstr "Was redest du da?"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:375
-msgid "A storm or something... No, it is not a storm. I can feel something very evil. It is near, very near!"
-msgstr "Ein Sturm oder so ... Nein, es ist kein Sturm. Ich spüre etwas sehr Böses. Es liegt nahe, sehr nahe!"
+msgid ""
+"A storm or something... No, it is not a storm. I can feel something very "
+"evil. It is near, very near!"
+msgstr ""
+"Ein Sturm oder so ... Nein, es ist kein Sturm. Ich spüre etwas sehr Böses. "
+"Es liegt nahe, sehr nahe!"
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/2_The_golden_chest.cfg:379
@@ -581,13 +748,26 @@ msgstr "3) Der Aufstieg der Untoten"
 
 #. [part]
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:19
-msgid "Not far to the north, first hordes of the undead has shown up. This may be a great test for Lahias and his new abilities. But will he stand a chance against such an evil?"
-msgstr "Nicht weit im Norden, zeigen sich die ersten Scharen der Untoten . Dies kann eine große Prüfung für Lahias und seine neuen Fähigkeiten sein. Aber wird er eine Chance gegen ein solches böse haben?"
+msgid ""
+"Not far to the north, first hordes of the undead has shown up. This may be a "
+"great test for Lahias and his new abilities. But will he stand a chance "
+"against such an evil?"
+msgstr ""
+"Nicht weit im Norden, zeigen sich die ersten Scharen der Untoten . Dies kann "
+"eine große Prüfung für Lahias und seine neuen Fähigkeiten sein. Aber wird er "
+"eine Chance gegen ein solches böse haben?"
 
 #. [part]
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:22
-msgid "The company of the three elves and their army have recently met a white mage wanderer. He taught them how to use holy magic. This new ability merged with natural elvish powers turned some of the fighters into the elvish lords."
-msgstr "Die Gesellschaft der drei Elfen und ihre Armee haben vor kurzem einem weißen Magier auf Wanderschaft getroffen. Er lehrte sie die heilige Magie zu benutzen. Diese neue Fähigkeit mit den natürlichen Elfen Mächten verschmolzen, verwandelten einige der Kämpfer in Elfen Fürsten."
+msgid ""
+"The company of the three elves and their army have recently met a white mage "
+"wanderer. He taught them how to use holy magic. This new ability merged with "
+"natural elvish powers turned some of the fighters into the elvish lords."
+msgstr ""
+"Die Gesellschaft der drei Elfen und ihre Armee haben vor kurzem einem weißen "
+"Magier auf Wanderschaft getroffen. Er lehrte sie die heilige Magie zu "
+"benutzen. Diese neue Fähigkeit mit den natürlichen Elfen Mächten "
+"verschmolzen, verwandelten einige der Kämpfer in Elfen Fürsten."
 
 #. [side]: type=Elvish Captain, id=Merhil, id=Marionel, id=Zerenhil, id=Allas
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:48
@@ -605,8 +785,8 @@ msgid "Allas the Wanderer"
 msgstr "Allas der Wanderer"
 
 #. [side]: type=Lich, id=Tademanar
-#: The_Three_Elves/scenarios/Interlude_river_crossing.cfg:49
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:130
+#: The_Three_Elves/scenarios/Interlude_river_crossing.cfg:49
 msgid "Tademanar"
 msgstr "Tademanar"
 
@@ -632,8 +812,11 @@ msgstr "Besiegt Lich Tademanar"
 
 #. [message]: id=Ted
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:231
-msgid "Die, you tree-loving bastards! Soon you'll become servants of our Dark Queen!"
-msgstr "Stirbt, Baum-liebende Bastarde! Bald werdet ihr Diener unserer dunkle Königin werden!"
+msgid ""
+"Die, you tree-loving bastards! Soon you'll become servants of our Dark Queen!"
+msgstr ""
+"Stirbt, Baum-liebende Bastarde! Bald werdet ihr Diener unserer dunkle "
+"Königin werden!"
 
 #. [message]: id=Herbert
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:235
@@ -643,12 +826,17 @@ msgstr "Stirb, stirb, stirb!"
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:239
 msgid "What did Samin say about them? Peaceful villagers? I think that..."
-msgstr "Was hat Samin über sie gesagt? Friedliche Dorfbewohner? Ich denke, dass..."
+msgstr ""
+"Was hat Samin über sie gesagt? Friedliche Dorfbewohner? Ich denke, dass..."
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:243
-msgid "He couldn't know that they will become undead. That Dark Queen they speak of, who is it?"
-msgstr "Er konnte nicht wissen, dass sie Untoten werden. Die dunkle Königin von der sie sprechen , wer ist sie?"
+msgid ""
+"He couldn't know that they will become undead. That Dark Queen they speak "
+"of, who is it?"
+msgstr ""
+"Er konnte nicht wissen, dass sie Untoten werden. Die dunkle Königin von der "
+"sie sprechen , wer ist sie?"
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:247
@@ -657,8 +845,12 @@ msgstr "Dass werden wir sicherlich sehen, wenn wir sie zerstören!"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:251
-msgid "I just got an idea. We should attack Herbert with our full strengh. Once he's eliminated we could move in his fortress."
-msgstr "Ich habe eine Idee. Wir sollten Herbert mit unserer vollen kraft angreifen. Sobald er beseitigt ist könnten wir in seine Festung bewegen."
+msgid ""
+"I just got an idea. We should attack Herbert with our full strengh. Once "
+"he's eliminated we could move in his fortress."
+msgstr ""
+"Ich habe eine Idee. Wir sollten Herbert mit unserer vollen kraft angreifen. "
+"Sobald er beseitigt ist könnten wir in seine Festung bewegen."
 
 #. [message]: id=Herbert
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:255
@@ -667,23 +859,42 @@ msgstr "HA-HA-HA!"
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:259
-msgid "Go Lahias, I will heal you. And remember, our elvish lords are very powerful against the undead, do not let them fall!"
-msgstr "Geh Lahias, ich werde dich heilen. Und denk daran, unsere Elfen Fürsten sind sehr mächtig gegen die Untoten, Lasst sie nicht fallen!"
+msgid ""
+"Go Lahias, I will heal you. And remember, our elvish lords are very powerful "
+"against the undead, do not let them fall!"
+msgstr ""
+"Geh Lahias, ich werde dich heilen. Und denk daran, unsere Elfen Fürsten sind "
+"sehr mächtig gegen die Untoten, Lasst sie nicht fallen!"
 
 #. [message]: id=Zerenhil
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:263
 msgid "Look, there are mountains in the east. It will be wise to avoid them."
-msgstr "Schaut, es gibt Berge im Osten. Es wird sinnvoll sein, sie zu vermeiden."
+msgstr ""
+"Schaut, es gibt Berge im Osten. Es wird sinnvoll sein, sie zu vermeiden."
 
 #. [message]: speaker=unit
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:275
-msgid "Thank you for freeing me. Every moment of being an undead was worse than hell!"
-msgstr "Vielen Dank, für meine Befreiung. Jeder Augenblick ein untoter zu sein war schlimmer als die Hölle!"
+msgid ""
+"Thank you for freeing me. Every moment of being an undead was worse than "
+"hell!"
+msgstr ""
+"Vielen Dank, für meine Befreiung. Jeder Augenblick ein untoter zu sein war "
+"schlimmer als die Hölle!"
 
 #. [message]: speaker=unit
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:287
-msgid "Thank you! Every second of this <i>life</i> was an endless suffering! Hear what I want to tell you. The Queen has a very powerful stronghold to the north, and she is preparing for a massive attack against the city of Carcifall, also known as the Brotherhood of Light. You must stop her at all costs!"
-msgstr "Danke! Jede Sekunde dieses <i>Leben</i> war ein endloses Leid! Hört, was ich euch mitteilen will. Die Königin hat eine sehr mächtige Festung im Norden, und sie bereitet einen massiven Angriff gegen die Stadt Carcifall auch als die Bruderschaft des Lichtes bekannt, vor. Ihr müsst sie um jeden Preis stoppen!"
+msgid ""
+"Thank you! Every second of this <i>life</i> was an endless suffering! Hear "
+"what I want to tell you. The Queen has a very powerful stronghold to the "
+"north, and she is preparing for a massive attack against the city of "
+"Carcifall, also known as the Brotherhood of Light. You must stop her at all "
+"costs!"
+msgstr ""
+"Danke! Jede Sekunde dieses <i>Leben</i> war ein endloses Leid! Hört, was ich "
+"euch mitteilen will. Die Königin hat eine sehr mächtige Festung im Norden, "
+"und sie bereitet einen massiven Angriff gegen die Stadt Carcifall auch als "
+"die Bruderschaft des Lichtes bekannt, vor. Ihr müsst sie um jeden Preis "
+"stoppen!"
 
 #. [message]: speaker=unit
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:299
@@ -693,23 +904,40 @@ msgstr "Mein inneres Feuer wird schwächer..."
 
 #. [message]: id=Ngo'rok
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:320
-msgid "We will NOT fight for your Dark Queen! We are powerful enough, we don't want to fight for that puny woman!"
-msgstr "Wir werden NICHT für die dunkle Königin kämpfen! Wir sind stark genug, wir wollen nicht, für diese kümmerliche Frau kämpfen!"
+msgid ""
+"We will NOT fight for your Dark Queen! We are powerful enough, we don't want "
+"to fight for that puny woman!"
+msgstr ""
+"Wir werden NICHT für die dunkle Königin kämpfen! Wir sind stark genug, wir "
+"wollen nicht, für diese kümmerliche Frau kämpfen!"
 
 #. [message]: id=Tademanar
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:324
-msgid "With these words you just signed your death sentence! But fulfilling it will be a pleasure for us. Warriors, slaughter that traitorous dog!"
-msgstr "Mit diesen Worten habt ihr euerTodesurteil unterschrieben! Und seine Erfüllung wird ein Vergnügen für uns. Krieger Schlachtet, diese verräterische Hunde ab!"
+msgid ""
+"With these words you just signed your death sentence! But fulfilling it will "
+"be a pleasure for us. Warriors, slaughter that traitorous dog!"
+msgstr ""
+"Mit diesen Worten habt ihr euerTodesurteil unterschrieben! Und seine "
+"Erfüllung wird ein Vergnügen für uns. Krieger Schlachtet, diese "
+"verräterische Hunde ab!"
 
 #. [message]: id=Ngo'rok
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:328
-msgid "I will cut your filthy undead mouth into two you... you mindless pile of bones!"
-msgstr "Ich werde dein dreckigen Untoten Mund in zwei schneiden... Hirnloser Haufen Knochen!"
+msgid ""
+"I will cut your filthy undead mouth into two you... you mindless pile of "
+"bones!"
+msgstr ""
+"Ich werde dein dreckigen Untoten Mund in zwei schneiden... Hirnloser Haufen "
+"Knochen!"
 
 #. [message]: id=Tademanar
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:332
-msgid "Really? Let's take a look. My power is growing every second and the Queen is going to kill every orc that will stand against her!"
-msgstr "Wirklich? Lassen uns sehen. Meine Macht wächst jede Sekunde und die Königin wird jeden Ork, der sich gegen sie wendet töten!"
+msgid ""
+"Really? Let's take a look. My power is growing every second and the Queen is "
+"going to kill every orc that will stand against her!"
+msgstr ""
+"Wirklich? Lassen uns sehen. Meine Macht wächst jede Sekunde und die Königin "
+"wird jeden Ork, der sich gegen sie wendet töten!"
 
 #. [message]: id=Ngo'rok
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:336
@@ -718,8 +946,14 @@ msgstr "Sie sind nur ein dummes kleines Skelett. Nichts weiter. NICHTS!"
 
 #. [message]: id=Nashtok
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:340
-msgid "True orcs fight for the Queen! You and your... ehm... army are nothing more than cowardly chickens! Orcs, kill these rebelious weaklings! Long live the Queen!"
-msgstr "Echte Orks kämpfen für die Königin! Du und deine ... ähm ... Armee sind nichts anderes als feige Hühner! Orks, tötet diese rebellische Schwächlinge! Lang lebe die Königin!"
+msgid ""
+"True orcs fight for the Queen! You and your... ehm... army are nothing more "
+"than cowardly chickens! Orcs, kill these rebelious weaklings! Long live the "
+"Queen!"
+msgstr ""
+"Echte Orks kämpfen für die Königin! Du und deine ... ähm ... Armee sind "
+"nichts anderes als feige Hühner! Orks, tötet diese rebellische Schwächlinge! "
+"Lang lebe die Königin!"
 
 #. [message]: id=Tademanar
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:344
@@ -728,8 +962,12 @@ msgstr "Sicher. Selbst die Bauern sind mächtiger als Ngorok!"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:348
-msgid "(Hmmm. It seams they don't know about our presence. We can use it to our advantage.)"
-msgstr "(Hmmm. Es scheint, sie wissen nichts über unsere Anwesenheit. Wir können es zu unserem Vorteil nutzen.)"
+msgid ""
+"(Hmmm. It seams they don't know about our presence. We can use it to our "
+"advantage.)"
+msgstr ""
+"(Hmmm. Es scheint, sie wissen nichts über unsere Anwesenheit. Wir können es "
+"zu unserem Vorteil nutzen.)"
 
 #. [message]: id=To'rok
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:363
@@ -763,8 +1001,17 @@ msgstr "Sehr gut. Berichte."
 
 #. [message]: id=Lebiel
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:428
-msgid "She was an elvish lady, but a monster of some kind transformed her into a very powerful undead. She have gathered an undead army and tricked the orcs to fight for her. Now their main forces are marching to destroy the Brotherhood of Light! I also saw a wandering white mage going this direction."
-msgstr "Sie war eine elfische Dame, aber ein Monster irgendeiner Art verwandelte sie in eine sehr mächtige Untote. Sie hat eine Armee von Untoten gesammelt und die Orcs ausgetrickst um für sie zu kämpfen. Jetzt ist marschieren ihre Hauptkräfte, um die Bruderschaft des Lichts zu zerstören! Ich sah auch einem wandernden Weißen Magier in diese Richtung gehen."
+msgid ""
+"She was an elvish lady, but a monster of some kind transformed her into a "
+"very powerful undead. She have gathered an undead army and tricked the orcs "
+"to fight for her. Now their main forces are marching to destroy the "
+"Brotherhood of Light! I also saw a wandering white mage going this direction."
+msgstr ""
+"Sie war eine elfische Dame, aber ein Monster irgendeiner Art verwandelte sie "
+"in eine sehr mächtige Untote. Sie hat eine Armee von Untoten gesammelt und "
+"die Orcs ausgetrickst um für sie zu kämpfen. Jetzt ist marschieren ihre "
+"Hauptkräfte, um die Bruderschaft des Lichts zu zerstören! Ich sah auch einem "
+"wandernden Weißen Magier in diese Richtung gehen."
 
 #. [message]: id=Allas
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:432
@@ -779,7 +1026,8 @@ msgstr "Du mußt mit mir zur Bruderschaft gehen! Wir haben keine Zeit übrig."
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:445
 msgid "All of us will go! Elves, prepare to move west!"
-msgstr "Alle von uns werden gehen! Elfen, bereitet euch vor nach Westen zu gehen!"
+msgstr ""
+"Alle von uns werden gehen! Elfen, bereitet euch vor nach Westen zu gehen!"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:449
@@ -793,8 +1041,12 @@ msgstr "Lahias, hast du den Verstand verloren?"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:457
-msgid "Just trust me! This is my battle, and I will defeat him quickly! Go to protect the Brotherhood, I will wait for you there."
-msgstr "Vertraue mir! Das ist mein Kampf, und ich werde ihn schnell besiegen! Geht um die Bruderschaft zu schützen, ich werde dort auf euch warten."
+msgid ""
+"Just trust me! This is my battle, and I will defeat him quickly! Go to "
+"protect the Brotherhood, I will wait for you there."
+msgstr ""
+"Vertraue mir! Das ist mein Kampf, und ich werde ihn schnell besiegen! Geht "
+"um die Bruderschaft zu schützen, ich werde dort auf euch warten."
 
 #. [label]
 #: The_Three_Elves/scenarios/3_Rise_of_the_undead.cfg:461
@@ -828,13 +1080,29 @@ msgstr "4) Der große Marsch"
 
 #. [part]
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:24
-msgid "The elves were in a great hurry to the city of Carcifall, well known as the Brotherhood of Light. This city, created by the holy magic of the white mages together with the hands of the elves, have already been under attack."
-msgstr "Die Elfen gingen in großer Eile zur Stadt Carcifall, auch als die Bruderschaft des Lichts bekannt. Diese Stadt, durch den heiligen Zauber der weißen Magier gemeinsam mit den Händen der Elfen geschaffen, wurden bereits angegriffen."
+msgid ""
+"The elves were in a great hurry to the city of Carcifall, well known as the "
+"Brotherhood of Light. This city, created by the holy magic of the white "
+"mages together with the hands of the elves, have already been under attack."
+msgstr ""
+"Die Elfen gingen in großer Eile zur Stadt Carcifall, auch als die "
+"Bruderschaft des Lichts bekannt. Diese Stadt, durch den heiligen Zauber der "
+"weißen Magier gemeinsam mit den Händen der Elfen geschaffen, wurden bereits "
+"angegriffen."
 
 #. [part]
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:27
-msgid "Merhil assumed that such a city certainly had a very powerful defences. But was he right? Is there a city which can stand such a massive attack? Growing darkness was making the march much more difficult. He wondered what was causing these lands to be so... hostile."
-msgstr "Merhil war davon ausgegangen, dass eine solche Stadt sicherlich eine sehr mächtige Abwehr hatte. Aber hatte er recht? Gibt es eine Stadt, die einen solchen massiven Angriff ertragen kann? Bei zunehmender Dunkelheit wurde der Marsch sehr viel schwieriger. Er fragte sich, wodurch diese Ländern so ... feindselig seien."
+msgid ""
+"Merhil assumed that such a city certainly had a very powerful defences. But "
+"was he right? Is there a city which can stand such a massive attack? Growing "
+"darkness was making the march much more difficult. He wondered what was "
+"causing these lands to be so... hostile."
+msgstr ""
+"Merhil war davon ausgegangen, dass eine solche Stadt sicherlich eine sehr "
+"mächtige Abwehr hatte. Aber hatte er recht? Gibt es eine Stadt, die einen "
+"solchen massiven Angriff ertragen kann? Bei zunehmender Dunkelheit wurde der "
+"Marsch sehr viel schwieriger. Er fragte sich, wodurch diese Ländern so ... "
+"feindselig seien."
 
 #. [part]
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:30
@@ -884,13 +1152,21 @@ msgstr "Wir müssen nach Westen sehr schnell oder sonst ... Schaut, Lava!"
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:179
-msgid "I don't know these parts very well, but this lava looks very unnatural. Some sorcerer was probably having some fun here."
-msgstr "Ich weiß nicht, diese Gegend sehr gut, aber diese Lava sieht sehr unnatürlich aus. Einige Zauberer hatten wohl ein bisschen Spaß ."
+msgid ""
+"I don't know these parts very well, but this lava looks very unnatural. Some "
+"sorcerer was probably having some fun here."
+msgstr ""
+"Ich weiß nicht, diese Gegend sehr gut, aber diese Lava sieht sehr "
+"unnatürlich aus. Einige Zauberer hatten wohl ein bisschen Spaß ."
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:183
-msgid "But that troll over there looks quite natural. How about asking him what is going on here?"
-msgstr "Aber der Troll drüben sieht ganz natürlich aus. Wie wäre es ihn zu fragen, was denn hier los sei?"
+msgid ""
+"But that troll over there looks quite natural. How about asking him what is "
+"going on here?"
+msgstr ""
+"Aber der Troll drüben sieht ganz natürlich aus. Wie wäre es ihn zu fragen, "
+"was denn hier los sei?"
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:187
@@ -899,18 +1175,30 @@ msgstr "Bist du sicher, dass dies eine gute Idee ist?"
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:191
-msgid "He looks like one of that evil ones, but he cannot face us alone. Let's have a closer look at him."
-msgstr "Er sieht aus wie einer, der Bösen, aber er kann nicht uns allein begegnen. Werfen wir einen genaueren Blick auf ihn."
+msgid ""
+"He looks like one of that evil ones, but he cannot face us alone. Let's have "
+"a closer look at him."
+msgstr ""
+"Er sieht aus wie einer, der Bösen, aber er kann nicht uns allein begegnen. "
+"Werfen wir einen genaueren Blick auf ihn."
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:195
-msgid "Excuse me, mr... troll. Can you tell us what is happening here? And what is that lava doing over there?"
-msgstr "Entschuldigen Sie, Herr... Troll. Kannst du uns sagen, was hier geschieht? Und was ist diese Lava da drüben?"
+msgid ""
+"Excuse me, mr... troll. Can you tell us what is happening here? And what is "
+"that lava doing over there?"
+msgstr ""
+"Entschuldigen Sie, Herr... Troll. Kannst du uns sagen, was hier geschieht? "
+"Und was ist diese Lava da drüben?"
 
 #. [message]: id=Trug
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:201
-msgid "Halt! What is puny elfs doing here? Speak quickly or Trug crush your skulls like... skulls!"
-msgstr "Halt! Was ist mickrig Elfen denn hier? Sprich schnell oder Trug vernichte deine Schädel wie... Schädel!"
+msgid ""
+"Halt! What is puny elfs doing here? Speak quickly or Trug crush your skulls "
+"like... skulls!"
+msgstr ""
+"Halt! Was ist mickrig Elfen denn hier? Sprich schnell oder Trug vernichte "
+"deine Schädel wie... Schädel!"
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:206
@@ -919,8 +1207,12 @@ msgstr "Wir..."
 
 #. [option]: id=Merhil
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:208
-msgid "We are heading west to protect the city of Carcifall from the invasion of orcs and undead."
-msgstr "Wir sind westlich Unterwegs zu der Stadt Carcifall um sie vor einer Invasion der Orks und Untoten zu schützen."
+msgid ""
+"We are heading west to protect the city of Carcifall from the invasion of "
+"orcs and undead."
+msgstr ""
+"Wir sind westlich Unterwegs zu der Stadt Carcifall um sie vor einer Invasion "
+"der Orks und Untoten zu schützen."
 
 #. [message]: id=Trug
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:212
@@ -939,28 +1231,44 @@ msgstr "Oh, vielleicht kannst du nach Westen gehen. Du ißt Sama... Elf."
 
 #. [option]: id=Merhil
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:231
-msgid "We are marching west to attack Carcifall, as the Dark Queen has commanded us."
-msgstr "Wir sind nach Westen am marschieren um Carcifall anzugreifen, wie die dunkle Königin uns geboten hat."
+msgid ""
+"We are marching west to attack Carcifall, as the Dark Queen has commanded us."
+msgstr ""
+"Wir sind nach Westen am marschieren um Carcifall anzugreifen, wie die dunkle "
+"Königin uns geboten hat."
 
 #. [message]: id=Trug
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:235
-msgid "Queen? Hm... Me guess you can go west. Queen is good. Queen send food to Trug. Food come tied and no have weapons."
-msgstr "Kõnigin? Hm ... Ich denke du kannst Westen gehen. Königin ist gut. Königin senden Nahrung zu Trug. Essen kommt gebunden und keine Waffen haben."
+msgid ""
+"Queen? Hm... Me guess you can go west. Queen is good. Queen send food to "
+"Trug. Food come tied and no have weapons."
+msgstr ""
+"Kõnigin? Hm ... Ich denke du kannst Westen gehen. Königin ist gut. Königin "
+"senden Nahrung zu Trug. Essen kommt gebunden und keine Waffen haben."
 
 #. [option]: id=Merhil
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:244
 msgid "We are here to kill every ugly, stinky troll who crosses our path!"
-msgstr "Wir sind hier, um alle hässliche, stinkenden Trolle, die unseren Weg kreuzen zu töten!"
+msgstr ""
+"Wir sind hier, um alle hässliche, stinkenden Trolle, die unseren Weg kreuzen "
+"zu töten!"
 
 #. [message]: id=Trug
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:248
 msgid "Youuuu! Bad, bad elf. Me eat you! No. Me crush your skull and eat you!"
-msgstr "Duuuu! Schlechte, schlechte Elf. Ich dich fressen! Nein Ich vernichte deine Schädel und essen dich!"
+msgstr ""
+"Duuuu! Schlechte, schlechte Elf. Ich dich fressen! Nein Ich vernichte deine "
+"Schädel und essen dich!"
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:260
-msgid "I have a very bad feeling about that journey of Lahias. Do you think he is allright? I hope he is not wounded or... something worse."
-msgstr "Ich habe ein sehr schlechtes Gefühl wegen der Reise von Lahias. Glaubst du, er ist in ordnung? Ich hoffe, er ist nicht verletzt oder... etwas schlimmeres."
+msgid ""
+"I have a very bad feeling about that journey of Lahias. Do you think he is "
+"allright? I hope he is not wounded or... something worse."
+msgstr ""
+"Ich habe ein sehr schlechtes Gefühl wegen der Reise von Lahias. Glaubst du, "
+"er ist in ordnung? Ich hoffe, er ist nicht verletzt oder... etwas "
+"schlimmeres."
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:264
@@ -969,8 +1277,12 @@ msgstr "Kein Grund zur Sorge, er ist stark und klug."
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:268
-msgid "But I do not see him. It seams he is late. He may be in a very difficult situation right now."
-msgstr "Aber ich sehe ihn nicht. Es scheint, er hat sich verspätet. Er kann in einer sehr schwierigen Situation sein."
+msgid ""
+"But I do not see him. It seams he is late. He may be in a very difficult "
+"situation right now."
+msgstr ""
+"Aber ich sehe ihn nicht. Es scheint, er hat sich verspätet. Er kann in einer "
+"sehr schwierigen Situation sein."
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:272
@@ -980,12 +1292,14 @@ msgstr "Oder er ist näher an Carcifall als wir."
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:276
 msgid "Sidonia might help us now. I will try to contact her."
-msgstr "Sidonia könnte uns jetzt helfen. Ich werde versuchen, sie zu kontaktieren."
+msgstr ""
+"Sidonia könnte uns jetzt helfen. Ich werde versuchen, sie zu kontaktieren."
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:280
 msgid "Sidonia? That crazy sorceress?!? Are you sure that she will help us?"
-msgstr "Sidonia? Die verrückte Zauberin?!? Bist du sicher,, dass sie uns helfen wird?"
+msgstr ""
+"Sidonia? Die verrückte Zauberin?!? Bist du sicher,, dass sie uns helfen wird?"
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:284
@@ -999,8 +1313,14 @@ msgstr "Schwester? Du bist voller Überraschungen, mein Liebling ."
 
 #. [message]: speaker=narrator
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:297
-msgid "Voice unknown for most, but very familiar to Nerelia, whispers in the wind. As the sound fades everyone can be sure that their progress will be easier now."
-msgstr "Eine Stimme, unbekannt für die meisten, aber sehr vertraut für Nerelia, flüstert im Wind. Sowe der Ton verschwindet kann jeder sicher sein, dass ihre Fortschritte jetzt einfacher werden."
+msgid ""
+"Voice unknown for most, but very familiar to Nerelia, whispers in the wind. "
+"As the sound fades everyone can be sure that their progress will be easier "
+"now."
+msgstr ""
+"Eine Stimme, unbekannt für die meisten, aber sehr vertraut für Nerelia, "
+"flüstert im Wind. Sowe der Ton verschwindet kann jeder sicher sein, dass "
+"ihre Fortschritte jetzt einfacher werden."
 
 #. [event]
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:311
@@ -1019,8 +1339,11 @@ msgstr "Mufi"
 
 #. [message]: id=Groshak
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:317
-msgid "To the city, quick! Pillage every single... what are these elves doing here?"
-msgstr "Zur Stadt, schnell! Plündert jeden einzelnen ... was machen diese Elfen denn hier?"
+msgid ""
+"To the city, quick! Pillage every single... what are these elves doing here?"
+msgstr ""
+"Zur Stadt, schnell! Plündert jeden einzelnen ... was machen diese Elfen denn "
+"hier?"
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:321
@@ -1030,17 +1353,27 @@ msgstr "Hey du, bist du ein Freund von Ngorok?"
 #. [message]: id=Groshak
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:325
 msgid "Ngorok?! Weakling Ngorok is a traitor! We are fighting for the Queen."
-msgstr "Ngorok? Der Schwächling von Ngorok ist ein Verräter! Wir kãmpfen für die Königin."
+msgstr ""
+"Ngorok? Der Schwächling von Ngorok ist ein Verräter! Wir kãmpfen für die "
+"Königin."
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:329
-msgid "Well, we are here to kill every last servant of the Queen! To arms, my friends!"
-msgstr "Nun, wir sind hier, um jeden letzten Diener der Königin zu töten! Zu den Waffen, meine Freunde!"
+msgid ""
+"Well, we are here to kill every last servant of the Queen! To arms, my "
+"friends!"
+msgstr ""
+"Nun, wir sind hier, um jeden letzten Diener der Königin zu töten! Zu den "
+"Waffen, meine Freunde!"
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:338
-msgid "I am slow, too slow. I can never make it in time. Why have I become an adventurer without having a horse?"
-msgstr "Ich bin langsam, zu langsam. Ich kann es nie rechtzeitig schaffen. Warum bin ich ein Abenteurer geworden ohne ein Pferd?"
+msgid ""
+"I am slow, too slow. I can never make it in time. Why have I become an "
+"adventurer without having a horse?"
+msgstr ""
+"Ich bin langsam, zu langsam. Ich kann es nie rechtzeitig schaffen. Warum bin "
+"ich ein Abenteurer geworden ohne ein Pferd?"
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:361
@@ -1059,8 +1392,13 @@ msgstr "5) Party für die Aasgeier"
 
 #. [part]
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:23
-msgid "Carcifall is under attack of the combinated forces of orcs and undead. Elves and mages prepare defenses, but it will not guard the city for long."
-msgstr "Carcifall wird angegriffen von den kombiniertem Kräften der Orks und Untoten. Elfen und Magier bereiten die Verteidigung vor, aber es wird nicht für lange Zeit die Stadt bewachen."
+msgid ""
+"Carcifall is under attack of the combinated forces of orcs and undead. Elves "
+"and mages prepare defenses, but it will not guard the city for long."
+msgstr ""
+"Carcifall wird angegriffen von den kombiniertem Kräften der Orks und "
+"Untoten. Elfen und Magier bereiten die Verteidigung vor, aber es wird nicht "
+"für lange Zeit die Stadt bewachen."
 
 #. [part]
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:26
@@ -1069,13 +1407,17 @@ msgstr "Ihre einzige Hoffnung liegt in Samin und die Krieger treu zu ihm."
 
 #. [part]
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:29
-msgid "And unexpected reinforcements lead by Merhil, still nearly unknown adventurer."
-msgstr "Und die unerwartete Verstärkung unter der Leitung von Merhil immer noch ein nahezu unbekannter Abenteurer."
+msgid ""
+"And unexpected reinforcements lead by Merhil, still nearly unknown "
+"adventurer."
+msgstr ""
+"Und die unerwartete Verstärkung unter der Leitung von Merhil immer noch ein "
+"nahezu unbekannter Abenteurer."
 
 #. [option]: id=Lahias
 #. [unit]: type=Elvish Enchantress, id=Sidonia
-#: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:209
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:95
+#: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:209
 msgid "Sidonia"
 msgstr "Sidonia"
 
@@ -1181,8 +1523,14 @@ msgstr "Im Namen von Samin, entfernt diesen schwarzen Fluch!"
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:429
-msgid "This will be a difficult fight, but we have an advantage in the forests. Let's prepare our warriors close to river, and do not forget to heal wounded units."
-msgstr "Dies wird ein schwieriger Kampf, aber wir haben einen Vorteil in den Wäldern. Lasst uns unsere Krieger in der Nähe von Fluss aufstellen, und vergiss nicht, verwundete Einheiten zu heilen."
+msgid ""
+"This will be a difficult fight, but we have an advantage in the forests. "
+"Let's prepare our warriors close to river, and do not forget to heal wounded "
+"units."
+msgstr ""
+"Dies wird ein schwieriger Kampf, aber wir haben einen Vorteil in den "
+"Wäldern. Lasst uns unsere Krieger in der Nähe von Fluss aufstellen, und "
+"vergiss nicht, verwundete Einheiten zu heilen."
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:433
@@ -1191,23 +1539,40 @@ msgstr "Sie sind kein Gegner für den Zorn der Elfen!"
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:437
-msgid "Stay calm and think - they can defeat us easily in grasslands. We must lure them to terrain suitable for us."
-msgstr "Bleib ruhig und denke - sie können uns im Grasland leicht besiegen. Wir müssen sie im geeignete Gelände für uns locken."
+msgid ""
+"Stay calm and think - they can defeat us easily in grasslands. We must lure "
+"them to terrain suitable for us."
+msgstr ""
+"Bleib ruhig und denke - sie können uns im Grasland leicht besiegen. Wir "
+"müssen sie im geeignete Gelände für uns locken."
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:441
-msgid "What type of warriors is good against the undead and what against the orcs?"
-msgstr "Welche Art von Krieger sind gut gegen die Untoten und welche gegen die Orks?"
+msgid ""
+"What type of warriors is good against the undead and what against the orcs?"
+msgstr ""
+"Welche Art von Krieger sind gut gegen die Untoten und welche gegen die Orks?"
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:445
-msgid "Skeletons are weak against impact attacks, so against them we can use our mages. But there are too little of them left. We must make sure, that they will be healed. Elves can fight the orcs, but again, they must be healed."
-msgstr "Skelette sind gegen Stoß Angriffe schwach, also gegen sie können wir unsere Magier verwenden. Aber es gibt zu wenig von ihnen. Wir müssen sicherstellen, dass sie geheilt werden. Elfen können die Orks bekämpfen, aber auch hier müssen sie geheilt werden."
+msgid ""
+"Skeletons are weak against impact attacks, so against them we can use our "
+"mages. But there are too little of them left. We must make sure, that they "
+"will be healed. Elves can fight the orcs, but again, they must be healed."
+msgstr ""
+"Skelette sind gegen Stoß Angriffe schwach, also gegen sie können wir unsere "
+"Magier verwenden. Aber es gibt zu wenig von ihnen. Wir müssen sicherstellen, "
+"dass sie geheilt werden. Elfen können die Orks bekämpfen, aber auch hier "
+"müssen sie geheilt werden."
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:449
-msgid "Also we must accept, that both orcs and undead are very powerful at night and weak during the day."
-msgstr "Auch müssen wir akzeptieren, dass sowohl Orks wie Untoten sehr mächtig in der Nacht und schwach im Laufe des Tages sind."
+msgid ""
+"Also we must accept, that both orcs and undead are very powerful at night "
+"and weak during the day."
+msgstr ""
+"Auch müssen wir akzeptieren, dass sowohl Orks wie Untoten sehr mächtig in "
+"der Nacht und schwach im Laufe des Tages sind."
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:453
@@ -1217,12 +1582,20 @@ msgstr "Hallo. Wo kann ich etwas trinken?"
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:457
 msgid "Hey! I know you - you leaded that rebelion in the swamps, right?"
-msgstr "Hey! Ich kenne dich - du hast diese rebelion in den Sümpfen angeführt, nicht wahr?"
+msgstr ""
+"Hey! Ich kenne dich - du hast diese rebelion in den Sümpfen angeführt, nicht "
+"wahr?"
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:461
-msgid "Sure. Listen, Ive come with many well trained warriors and I hate that wretched undead. Great battle is upon us, so today you will see our real skills. Ally?"
-msgstr "Sicher. Höre, ich bin mit vielen gut ausgebildeten Krieger gekommen, und ich hasse diese elenden Untoten. Eine Große Schlacht ist über uns lass uns unsere wirklichen Fähigkeiten zeigen. Verbündete?"
+msgid ""
+"Sure. Listen, Ive come with many well trained warriors and I hate that "
+"wretched undead. Great battle is upon us, so today you will see our real "
+"skills. Ally?"
+msgstr ""
+"Sicher. Höre, ich bin mit vielen gut ausgebildeten Krieger gekommen, und ich "
+"hasse diese elenden Untoten. Eine Große Schlacht ist über uns lass uns "
+"unsere wirklichen Fähigkeiten zeigen. Verbündete?"
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:465
@@ -1237,7 +1610,9 @@ msgstr "Nettes Mädchen."
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:473
 msgid "Thanks. But enought chatter. We must prepare troops for battle."
-msgstr "Danke. Aber genug Geschwatzt. Wir müssen die Truppen für den Kampf vorbereiten."
+msgstr ""
+"Danke. Aber genug Geschwatzt. Wir müssen die Truppen für den Kampf "
+"vorbereiten."
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:482
@@ -1254,18 +1629,12 @@ msgstr "Vielleicht kann ich einige von ihnen beschwören..."
 msgid "Lasate estan fundan, ti veere nesan luan!"
 msgstr "Lasate estan fundan, ti veere nesan luan!"
 
-#. [unit]: type=Elvish Hero
-#. [unit]: type=Elvish Scout
-#. [unit]: type=Elvish Fighter
 #. [unit]: type=Elvish Archer
+#. [unit]: type=Elvish Fighter
+#. [unit]: type=Elvish Hero
 #. [unit]: type=Elvish High Lord
 #. [unit]: type=Elvish Lord
-#: The_Three_Elves/scenarios/7_Assassins.cfg:279
-#: The_Three_Elves/scenarios/7_Assassins.cfg:285
-#: The_Three_Elves/scenarios/7_Assassins.cfg:291
-#: The_Three_Elves/scenarios/6_Final_assault.cfg:655
-#: The_Three_Elves/scenarios/6_Final_assault.cfg:661
-#: The_Three_Elves/scenarios/6_Final_assault.cfg:667
+#. [unit]: type=Elvish Scout
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:496
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:502
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:508
@@ -1275,6 +1644,12 @@ msgstr "Lasate estan fundan, ti veere nesan luan!"
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:543
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:550
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:699
+#: The_Three_Elves/scenarios/6_Final_assault.cfg:655
+#: The_Three_Elves/scenarios/6_Final_assault.cfg:661
+#: The_Three_Elves/scenarios/6_Final_assault.cfg:667
+#: The_Three_Elves/scenarios/7_Assassins.cfg:279
+#: The_Three_Elves/scenarios/7_Assassins.cfg:285
+#: The_Three_Elves/scenarios/7_Assassins.cfg:291
 msgid "Summoned elf"
 msgstr "Beschworener Elf"
 
@@ -1295,9 +1670,9 @@ msgid "Netera numas hivesi!"
 msgstr "Netera numas hivesi!"
 
 #. [unit]: type=Walking Corpse
+#: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:578
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:688
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:721
-#: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:578
 msgid "Summoned corpse"
 msgstr "Beschworener Leichnam"
 
@@ -1321,10 +1696,10 @@ msgstr "Was für ein Zauberspruch hat dieser Lich gegen uns verwendet?!?"
 msgid "I have no idea, but I dispelled it. Or not?"
 msgstr "Ich habe keine Ahnung, aber ich habe ihn verbannt. Oder nicht?"
 
-#. [message]: id=Lahias
 #. [message]: id=Fan'to'mas
-#: The_Three_Elves/scenarios/6_Final_assault.cfg:755
+#. [message]: id=Lahias
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:617
+#: The_Three_Elves/scenarios/6_Final_assault.cfg:755
 msgid "HA-HA-HA"
 msgstr "HA-HA-HA"
 
@@ -1339,22 +1714,29 @@ msgstr "Beschworener Ritter"
 #. [message]: id=Fan'to'mas
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:647
 msgid "Come knights, kill the elves! Kill the mages! Kill all of them HA-HA-HA"
-msgstr "Kommt Ritter, tötet die Elfen! Tötet die Magier! Tötet sie alle HA-HA-HA"
+msgstr ""
+"Kommt Ritter, tötet die Elfen! Tötet die Magier! Tötet sie alle HA-HA-HA"
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:651
-msgid "Ancient fire of the Earth! Power of the burning flames! Show your wrath now and create a trap for this foul undead! Bur de le natia, su vere tisia, nu bere latovie terristea hius!"
-msgstr "Alte Feuer der Erde! Macht der brennenden Flammen! Zeigt euren Zorn nun und erstellt eine Falle für diese üblen Untoten! Bur de le natia, su vere tisia, nu bere latovie terristea hius!"
+msgid ""
+"Ancient fire of the Earth! Power of the burning flames! Show your wrath now "
+"and create a trap for this foul undead! Bur de le natia, su vere tisia, nu "
+"bere latovie terristea hius!"
+msgstr ""
+"Alte Feuer der Erde! Macht der brennenden Flammen! Zeigt euren Zorn nun und "
+"erstellt eine Falle für diese üblen Untoten! Bur de le natia, su vere tisia, "
+"nu bere latovie terristea hius!"
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:662
 msgid "And about you, lich... Nar de tasimal su vere na morthipis!"
 msgstr "Und nun zu dir, Lich ... Nar de tasimal su Vere na morthipis!"
 
-#. [message]: id=Trohak
 #. [message]: id=Fan'to'mas
-#: The_Three_Elves/scenarios/6_Final_assault.cfg:607
+#. [message]: id=Trohak
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:666
+#: The_Three_Elves/scenarios/6_Final_assault.cfg:607
 msgid "Aaaaaagh!"
 msgstr "Aaaaaagh!"
 
@@ -1381,8 +1763,12 @@ msgstr "Beschworene Sirene"
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:731
-msgid "I can't hold that fire. Its starting to be really hard. We must kill that death knights."
-msgstr "Ich kann es nicht halten, dass Feuer. Es beginnt, wirklich schwierig zu werden. Wir müssen diese Todes Ritter töten."
+msgid ""
+"I can't hold that fire. Its starting to be really hard. We must kill that "
+"death knights."
+msgstr ""
+"Ich kann es nicht halten, dass Feuer. Es beginnt, wirklich schwierig zu "
+"werden. Wir müssen diese Todes Ritter töten."
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:746
@@ -1401,18 +1787,34 @@ msgstr "6) Letzter Angriff"
 
 #. [part]
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:25
-msgid "Forces of Merhil and Samin broke the siege of Carcifall. In that very moment, attacks of the undead and their orc friends become weak and unorganised."
-msgstr "Die Kräfte von Merhil und Samin brachen die Belagerung von Carcifall. In diesem Moment wurden die Angriffe der Untoten und ihre Ork Freunden schwach und unorganisiert."
+msgid ""
+"Forces of Merhil and Samin broke the siege of Carcifall. In that very "
+"moment, attacks of the undead and their orc friends become weak and "
+"unorganised."
+msgstr ""
+"Die Kräfte von Merhil und Samin brachen die Belagerung von Carcifall. In "
+"diesem Moment wurden die Angriffe der Untoten und ihre Ork Freunden schwach "
+"und unorganisiert."
 
 #. [part]
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:28
-msgid "Main bastion if evil is on the north, where the dark queen is preparing a new army of undead and orcs. Preparing fresh troops have only begun, and sentries delivered a message about elves."
-msgstr "Die Hauptbastion des Bösen ist auf der Nordseite, wo die dunkle Königin eine neue Armee von Untoten und Orks vorbereitet . Der Vorbereitung neuer Truppen hat gerade erst begonnen, und Wachen sendeten eine Botschaft über die Elfen."
+msgid ""
+"Main bastion if evil is on the north, where the dark queen is preparing a "
+"new army of undead and orcs. Preparing fresh troops have only begun, and "
+"sentries delivered a message about elves."
+msgstr ""
+"Die Hauptbastion des Bösen ist auf der Nordseite, wo die dunkle Königin eine "
+"neue Armee von Untoten und Orks vorbereitet . Der Vorbereitung neuer Truppen "
+"hat gerade erst begonnen, und Wachen sendeten eine Botschaft über die Elfen."
 
 #. [part]
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:31
-msgid "Elves, mages, and rebel orcs now stand united and prepared to banish anyone who oppose them. Their powers are now great."
-msgstr "Elfen, Magier und Ork Rebellen stehen nun vereint und bereit jeden der sich ihnen widersetzt zu verbannen. Ihre Kräfte sind nun groß."
+msgid ""
+"Elves, mages, and rebel orcs now stand united and prepared to banish anyone "
+"who oppose them. Their powers are now great."
+msgstr ""
+"Elfen, Magier und Ork Rebellen stehen nun vereint und bereit jeden der sich "
+"ihnen widersetzt zu verbannen. Ihre Kräfte sind nun groß."
 
 #. [part]
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:34
@@ -1473,7 +1875,8 @@ msgstr "Aber wir werden es von ihnen zurückerobern, oder nicht?"
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:268
 msgid "Sure. Our forces are great. And we have a new allies."
-msgstr "Sicher. Unsere Kräfte sind groß. Und wir haben einen neuen Verbündeten."
+msgstr ""
+"Sicher. Unsere Kräfte sind groß. Und wir haben einen neuen Verbündeten."
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:272
@@ -1483,12 +1886,17 @@ msgstr "Nun, könnt ihr sie uns einführen?"
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:276
 msgid "Very well. This is Trohak, son of Ngorok. He lead the rebel orcs."
-msgstr "Sehr gut. Dies ist Trohak, Sohn des Ngorok. Er führt die Rebellen der Orks."
+msgstr ""
+"Sehr gut. Dies ist Trohak, Sohn des Ngorok. Er führt die Rebellen der Orks."
 
 #. [message]: id=Trohak
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:280
-msgid "We are no longer rebels. We are the true orcs, fighting for honor and glory. Only weak orcs are fighting for undead."
-msgstr "Wir sind nicht länger Rebellen. Wir sind die wahren Orks, kämpfen für Ruhm und Ehre. Nur schwache Orks werden für Untote kämpfen."
+msgid ""
+"We are no longer rebels. We are the true orcs, fighting for honor and glory. "
+"Only weak orcs are fighting for undead."
+msgstr ""
+"Wir sind nicht länger Rebellen. Wir sind die wahren Orks, kämpfen für Ruhm "
+"und Ehre. Nur schwache Orks werden für Untote kämpfen."
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:284
@@ -1522,8 +1930,14 @@ msgstr "Genug. Wir wollen die Untoten Bastion angreifen."
 
 #. [message]: id=Trohak
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:308
-msgid "Yeah! Orcs, make your swords ready, this time we shall broke the bones of weak cursed orcs and make a new graveyard from that undead. For honor and glory!"
-msgstr "Yeah! Orks, macht eure Schwerter bereit, dieses Mal werden wir die Knochen schwacher verfluchten Orks brechen und einen neuen Friedhof aus diesen Untoten erstellen. Für Ruhm und Ehre!"
+msgid ""
+"Yeah! Orcs, make your swords ready, this time we shall broke the bones of "
+"weak cursed orcs and make a new graveyard from that undead. For honor and "
+"glory!"
+msgstr ""
+"Yeah! Orks, macht eure Schwerter bereit, dieses Mal werden wir die Knochen "
+"schwacher verfluchten Orks brechen und einen neuen Friedhof aus diesen "
+"Untoten erstellen. Für Ruhm und Ehre!"
 
 #. [message]: id=Adena
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:312
@@ -1532,8 +1946,13 @@ msgstr "Kaninchen mögen frische Karotten und Fuchs mag frisches Kaninchen."
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:316
-msgid "Your silly forces cannot stop me! Try it, just try, and all your immortal elves will be dead. Or undead under my control! HA-HA-HA."
-msgstr "Eure albernen Kräfte können mich nicht aufhalten! Probiert es aus, versucht es einfach, und alle unsterblichen Elfen werden sterben. Oder Untot unter meiner Kontrolle! HA-HA-HA."
+msgid ""
+"Your silly forces cannot stop me! Try it, just try, and all your immortal "
+"elves will be dead. Or undead under my control! HA-HA-HA."
+msgstr ""
+"Eure albernen Kräfte können mich nicht aufhalten! Probiert es aus, versucht "
+"es einfach, und alle unsterblichen Elfen werden sterben. Oder Untot unter "
+"meiner Kontrolle! HA-HA-HA."
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:320
@@ -1547,8 +1966,12 @@ msgstr "Retten? Was zum Teufel redest du da, hässliche alte Elfen Hexe?"
 
 #. [message]: id=Rootkit
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:328
-msgid "We cash elf wich we kill elvs with long ers! Trolls, move add crash, bash and ma theyr bones!"
-msgstr "Wir zerschmettern Elfen, wir töten Elfen mit langen Ohren! Trolle bewegt euch und zerschlagt, zerstampft und zer ihre Knochen!"
+msgid ""
+"We cash elf wich we kill elvs with long ers! Trolls, move add crash, bash "
+"and ma theyr bones!"
+msgstr ""
+"Wir zerschmettern Elfen, wir töten Elfen mit langen Ohren! Trolle bewegt "
+"euch und zerschlagt, zerstampft und zer ihre Knochen!"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:332
@@ -1562,8 +1985,12 @@ msgstr "Jaaa! Tötet die hässlichen stinkenden Elfen!"
 
 #. [message]: id=Tursakk
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:345
-msgid "Assassins! To positions! No elf or foolish orc will enter the domain of our master!"
-msgstr "Attentäter! Auf die Positionen! Keine Elfen oder töriche Orks werden in das Gebiet unseres Meisters eindringen!"
+msgid ""
+"Assassins! To positions! No elf or foolish orc will enter the domain of our "
+"master!"
+msgstr ""
+"Attentäter! Auf die Positionen! Keine Elfen oder töriche Orks werden in das "
+"Gebiet unseres Meisters eindringen!"
 
 #. [unit]: type=Orcish Slayer
 #. [unit]: type=Spectre
@@ -1574,16 +2001,16 @@ msgstr "Attentäter! Auf die Positionen! Keine Elfen oder töriche Orks werden i
 msgid "Elite assassin"
 msgstr "Elite Attentäter"
 
+#. [unit]: type=Assassin
+#. [unit]: type=Orcish Assassin
 #. [unit]: type=Rogue
 #. [unit]: type={TYPE}
-#. [unit]: type=Orcish Assassin
-#. [unit]: type=Assassin
-#: The_Three_Elves/scenarios/7_Assassins.cfg:216
-#: The_Three_Elves/scenarios/7_Assassins.cfg:246
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:363
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:369
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:375
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:381
+#: The_Three_Elves/scenarios/7_Assassins.cfg:216
+#: The_Three_Elves/scenarios/7_Assassins.cfg:246
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:249
 msgid "Nameless one"
 msgstr "Namenlos"
@@ -1595,8 +2022,14 @@ msgstr "Geister! Tötet diese Magierin!"
 
 #. [message]: id=Adena
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:405
-msgid "Death is burning! Living see both of the shores. Death itself is begging for life. To me, mighty warriors! Show your power! Assassins will be assassinated!"
-msgstr "Der Tod Verbrennt! Die Lebenden sehen beide Ufer. Der Tod selbst wird für das Leben betteln. Zu mir mächtige Krieger! Zeigt eure Macht! Attentäter werden ermordet werden!"
+msgid ""
+"Death is burning! Living see both of the shores. Death itself is begging for "
+"life. To me, mighty warriors! Show your power! Assassins will be "
+"assassinated!"
+msgstr ""
+"Der Tod Verbrennt! Die Lebenden sehen beide Ufer. Der Tod selbst wird für "
+"das Leben betteln. Zu mir mächtige Krieger! Zeigt eure Macht! Attentäter "
+"werden ermordet werden!"
 
 #. [unit]: type=Giant Spider
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:411
@@ -1640,11 +2073,15 @@ msgstr "Verdammt..."
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:458
-msgid "well.. i think it should be 'tundula' instead of 'tunlua'. Tundula este se verle natalas!"
-msgstr "nun... Ich denke, es sollte \"tundula\" anstelle von \"tunlua\" werden. Tundula este se verle natalas!"
+msgid ""
+"well.. i think it should be 'tundula' instead of 'tunlua'. Tundula este se "
+"verle natalas!"
+msgstr ""
+"nun... Ich denke, es sollte \"tundula\" anstelle von \"tunlua\" werden. "
+"Tundula este se verle natalas!"
 
-#. [unit]: type=Inferno Drake
 #. [unit]: type=Drake Burner
+#. [unit]: type=Inferno Drake
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:468
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:474
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:480
@@ -1660,7 +2097,9 @@ msgstr "Besser, viel besser!"
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:490
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:276
 msgid "Trees are living, trees are moving, trees are strong and very boring!"
-msgstr "Bäume sind lebendig, Bäume bewegen sich, Bäume sind stark und sehr langweilig!"
+msgstr ""
+"Bäume sind lebendig, Bäume bewegen sich, Bäume sind stark und sehr "
+"langweilig!"
 
 #. [unit]: type=Wose
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:496
@@ -1674,7 +2113,9 @@ msgstr "Beschworener Waldschrat"
 #. [message]: id=Trohak
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:528
 msgid "It is a hard battle, maybe you can help us with some magic, Sidonia."
-msgstr "Es ist ein harter Kampf, vielleicht könnt ihr uns mit etwas Magie helfen, Sidonia."
+msgstr ""
+"Es ist ein harter Kampf, vielleicht könnt ihr uns mit etwas Magie helfen, "
+"Sidonia."
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:532
@@ -1683,8 +2124,12 @@ msgstr "Orks helfen? Niemals!"
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:536
-msgid "ARE YOU MAD? His father and brother help us greatly against undead. We will never be here without help of the brave orc warriors. Help them."
-msgstr "Bist du verrückt? Sein Vater und Bruder halfen uns sehr gegen die Untote. Wir werden hier nie ohne Hilfe der tapferen Orc Krieger. Helft ihnen."
+msgid ""
+"ARE YOU MAD? His father and brother help us greatly against undead. We will "
+"never be here without help of the brave orc warriors. Help them."
+msgstr ""
+"Bist du verrückt? Sein Vater und Bruder halfen uns sehr gegen die Untote. "
+"Wir werden hier nie ohne Hilfe der tapferen Orc Krieger. Helft ihnen."
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:540
@@ -1693,8 +2138,14 @@ msgstr "Merhil ist richtig, sie haben uns einen großen Dienst erwiesen."
 
 #. [message]: id=Trohak
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:544
-msgid "What they said is true. My father sacrificed himself to save their lives. He was their ally. I do not lie to you, we are here to defeat undead and we need to do it together."
-msgstr "Was sie sagten, ist wahr. Mein Vater opferte sich, um euer Leben zu retten. Er war euer Verbündeter. Ich lüge euch nicht an, wir sind hier, um die Untote zu besiegen, und wir müssen es gemeinsam tun."
+msgid ""
+"What they said is true. My father sacrificed himself to save their lives. He "
+"was their ally. I do not lie to you, we are here to defeat undead and we "
+"need to do it together."
+msgstr ""
+"Was sie sagten, ist wahr. Mein Vater opferte sich, um euer Leben zu retten. "
+"Er war euer Verbündeter. Ich lüge euch nicht an, wir sind hier, um die "
+"Untote zu besiegen, und wir müssen es gemeinsam tun."
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:548
@@ -1718,13 +2169,24 @@ msgstr "Warte. Gut Samin, Ich... Ich..."
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:563
-msgid "I am sorry Trohak. All my life i've been fighting the orcs. I never believe that orcs will be our allies. I will summon mages, to fight under your banner. I am really sorry."
-msgstr "Es tut mir leid Trohak. Mein ganzes Leben habe ich die Orks bekämpft. Ich habe nie geglaubt, dass Orks unsere Verbündete sein werden. Ich werde Magier rufen die unter euren Banner kämpfen. Es tut mir leid."
+msgid ""
+"I am sorry Trohak. All my life i've been fighting the orcs. I never believe "
+"that orcs will be our allies. I will summon mages, to fight under your "
+"banner. I am really sorry."
+msgstr ""
+"Es tut mir leid Trohak. Mein ganzes Leben habe ich die Orks bekämpft. Ich "
+"habe nie geglaubt, dass Orks unsere Verbündete sein werden. Ich werde Magier "
+"rufen die unter euren Banner kämpfen. Es tut mir leid."
 
 #. [message]: id=Trohak
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:567
-msgid "We are fighting together, and this is a hard battle. Summon mages quickly, so we can clear your way to the chamber of that Death Knight."
-msgstr "Wir kämpfen gemeinsam, und das ist ein harter Kampf. Beschwöre schnell Magier, so können wir den Weg in die Kammer von diesen Todesritter freikämpfen."
+msgid ""
+"We are fighting together, and this is a hard battle. Summon mages quickly, "
+"so we can clear your way to the chamber of that Death Knight."
+msgstr ""
+"Wir kämpfen gemeinsam, und das ist ein harter Kampf. Beschwöre schnell "
+"Magier, so können wir den Weg in die Kammer von diesen Todesritter "
+"freikämpfen."
 
 #. [unit]: type=Great Mage, id=Silifys
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:573
@@ -1753,8 +2215,12 @@ msgstr "Ihr Orks seid viel schwächer als Sidonia. Geht nach Hause oder stirbt!"
 
 #. [message]: id=Trohak
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:599
-msgid "Come orcs, our bretheren fight against elvish traitors. Help them and kill every elf!"
-msgstr "Kommt Orks, unsere Brüder, Kämpft gegen die Elfen Verräter. Helft ihnen und töten jeden Elfen!"
+msgid ""
+"Come orcs, our bretheren fight against elvish traitors. Help them and kill "
+"every elf!"
+msgstr ""
+"Kommt Orks, unsere Brüder, Kämpft gegen die Elfen Verräter. Helft ihnen und "
+"töten jeden Elfen!"
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:603
@@ -1763,13 +2229,23 @@ msgstr "Du wirst zuerst sterben! Nar de tasimal su vere na morthipis!"
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:629
-msgid "Orcs are fleeing, both friends and enemies! I do not think that it was a wise decision."
-msgstr "Orks sind auf der Flucht, sowohl Freunde als auch Feinde! Ich glaube nicht, dass es eine kluge Entscheidung war."
+msgid ""
+"Orcs are fleeing, both friends and enemies! I do not think that it was a "
+"wise decision."
+msgstr ""
+"Orks sind auf der Flucht, sowohl Freunde als auch Feinde! Ich glaube nicht, "
+"dass es eine kluge Entscheidung war."
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:633
-msgid "Do not worry, Samin. My spells are much stronger then their blades. And enemy orcs are running out of my wrath, too. Now we only need to rescue Lahias."
-msgstr "Mach dir keine Sorgen, Samin. Meine Zauber sind viel stärker als ihre Klingen. Und feindliche Orks laufen auch aus meinem Zorn. Jetzt müssen wir nur noch Lahias retten."
+msgid ""
+"Do not worry, Samin. My spells are much stronger then their blades. And "
+"enemy orcs are running out of my wrath, too. Now we only need to rescue "
+"Lahias."
+msgstr ""
+"Mach dir keine Sorgen, Samin. Meine Zauber sind viel stärker als ihre "
+"Klingen. Und feindliche Orks laufen auch aus meinem Zorn. Jetzt müssen wir "
+"nur noch Lahias retten."
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:645
@@ -1794,12 +2270,17 @@ msgstr "Wollt ihr mehr? Okay, hier sind Sie!"
 #. [message]: id=Adena
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:747
 msgid "So much death. So much agony. Only sun can feel the cold of his heart."
-msgstr "So viel Tod. So viel Schmerz. Nur die Sonne kann die Kälte in seinem Herzen fühlen."
+msgstr ""
+"So viel Tod. So viel Schmerz. Nur die Sonne kann die Kälte in seinem Herzen "
+"fühlen."
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:751
-msgid "I... I... feel paralised. My body is growing heavy. My power is disappearing."
-msgstr "Ich... Ich... fühle mich gelähmt. Mein Körper wird immer schwer. Meine Kraft schwindet."
+msgid ""
+"I... I... feel paralised. My body is growing heavy. My power is disappearing."
+msgstr ""
+"Ich... Ich... fühle mich gelähmt. Mein Körper wird immer schwer. Meine Kraft "
+"schwindet."
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:759
@@ -1823,8 +2304,12 @@ msgstr "Talamen nu nakore pus tame hallore!"
 
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:776
-msgid "AAAAARGH! It is a great pain. I think that it bursting my body into pieces. My journey ends he..."
-msgstr "AAAAARGH! Es ist ein großer Schmerz. Ich denke, dass es meinem Körper in Stücke bricht. Meine Reise endet er..."
+msgid ""
+"AAAAARGH! It is a great pain. I think that it bursting my body into pieces. "
+"My journey ends he..."
+msgstr ""
+"AAAAARGH! Es ist ein großer Schmerz. Ich denke, dass es meinem Körper in "
+"Stücke bricht. Meine Reise endet er..."
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:786
@@ -1833,8 +2318,13 @@ msgstr "Sie ist tot! Nerelia ist tot!"
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:790
-msgid "Nerelia sacrifieced herself and saved your life. Come, we must rescue Lahias from his undead body, faster then he kill more elves!"
-msgstr "Nerelia opferte sich und hat dein Leben gerettet. Komm, wir müssen Lahias von seinen untoten Körper retten, schneller bewor er noch mehr Elfen töten kann!"
+msgid ""
+"Nerelia sacrifieced herself and saved your life. Come, we must rescue Lahias "
+"from his undead body, faster then he kill more elves!"
+msgstr ""
+"Nerelia opferte sich und hat dein Leben gerettet. Komm, wir müssen Lahias "
+"von seinen untoten Körper retten, schneller bewor er noch mehr Elfen töten "
+"kann!"
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:804
@@ -1844,13 +2334,23 @@ msgstr "Die Bürger von Carcifall senden 100 Goldstücke für jeden von uns."
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:813
-msgid "Maybe some magic can help us reach that chamber quickly... nan su faleh ternista, la fel mer hil tufewea!"
-msgstr "Vielleicht kann etwas Magie uns helfen, diese Kammer schneller zu erreichen... nan su Faleh ternista, la mer fel hil tufewea!"
+msgid ""
+"Maybe some magic can help us reach that chamber quickly... nan su faleh "
+"ternista, la fel mer hil tufewea!"
+msgstr ""
+"Vielleicht kann etwas Magie uns helfen, diese Kammer schneller zu "
+"erreichen... nan su Faleh ternista, la mer fel hil tufewea!"
 
 #. [message]: id=Adena
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:824
-msgid "I also know one spell. Sure, my spells are not as good as yours, sister, but now I can try it. Let the light shine in the deepest caves! Narum al lumium, terri les minum!"
-msgstr "Ich weiß auch einen Zauberspruch. Sicher sind meine Zauber nicht so gut wie deine, Schwester, aber jetzt kann ich es versuchen. Lasst dass Licht leuchten in die tiefsten Höhlen! Narum al lumium, terri les minium!"
+msgid ""
+"I also know one spell. Sure, my spells are not as good as yours, sister, but "
+"now I can try it. Let the light shine in the deepest caves! Narum al lumium, "
+"terri les minum!"
+msgstr ""
+"Ich weiß auch einen Zauberspruch. Sicher sind meine Zauber nicht so gut wie "
+"deine, Schwester, aber jetzt kann ich es versuchen. Lasst dass Licht "
+"leuchten in die tiefsten Höhlen! Narum al lumium, terri les minium!"
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:839
@@ -1879,18 +2379,32 @@ msgstr "Herrje! Ich fühle ... Leben! Bist du dass, Nerelia?"
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:910
-msgid "Close, very close. I am Sidonia, Sidonia Leafstel. Sister of Nerelia and Salim. And you are that one who killed the queen?"
-msgstr "Nah, sehr nah. Ich bin Sidonia, Sidonia Leafstel. Schwester von Nerelia und Salim. Und du bist derjenige der die Königin getötet hat?"
+msgid ""
+"Close, very close. I am Sidonia, Sidonia Leafstel. Sister of Nerelia and "
+"Salim. And you are that one who killed the queen?"
+msgstr ""
+"Nah, sehr nah. Ich bin Sidonia, Sidonia Leafstel. Schwester von Nerelia und "
+"Salim. Und du bist derjenige der die Königin getötet hat?"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:914
-msgid "Yes, she changed her name to Tar Dem Lafanar. I killed her at the bridge. I am sorry, I am so sorry for that attack on Carcifall."
-msgstr "Ja, sie änderte ihren Namen zu Tar Dem Lafanar. Ich tötete sie an der Brücke. Es tut mir leid für diesen Angriff auf Carcifall."
+msgid ""
+"Yes, she changed her name to Tar Dem Lafanar. I killed her at the bridge. I "
+"am sorry, I am so sorry for that attack on Carcifall."
+msgstr ""
+"Ja, sie änderte ihren Namen zu Tar Dem Lafanar. Ich tötete sie an der "
+"Brücke. Es tut mir leid für diesen Angriff auf Carcifall."
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:918
-msgid "Evil is defeated, together we made it. And by the way, you saved my life, and now I repaied it to you. Heal the wounded, and than we can celebrate our success."
-msgstr "Das Böse ist besiegt, Gemeinsam haben wir es geschafft. Und übrigens, du hast mein Leben gerettet, und jetzt danke ich es dir. Heilt die Verwundeten und dann lass uns unseren Erfolg feiern."
+msgid ""
+"Evil is defeated, together we made it. And by the way, you saved my life, "
+"and now I repaied it to you. Heal the wounded, and than we can celebrate our "
+"success."
+msgstr ""
+"Das Böse ist besiegt, Gemeinsam haben wir es geschafft. Und übrigens, du "
+"hast mein Leben gerettet, und jetzt danke ich es dir. Heilt die Verwundeten "
+"und dann lass uns unseren Erfolg feiern."
 
 #. [scenario]: id=7_assassins
 #: The_Three_Elves/scenarios/7_Assassins.cfg:5
@@ -1899,8 +2413,12 @@ msgstr "7) Attentäter"
 
 #. [part]
 #: The_Three_Elves/scenarios/7_Assassins.cfg:24
-msgid "After regaining his power, Lahias is looking for another adventure. Sometimes it's not needed to come far..."
-msgstr "Nach der Wiedererlangung seiner Macht, ist Lahias für ein weiteres Abenteuer bereit. Manchmal ist es nicht nötig, weit zu kommen..."
+msgid ""
+"After regaining his power, Lahias is looking for another adventure. "
+"Sometimes it's not needed to come far..."
+msgstr ""
+"Nach der Wiedererlangung seiner Macht, ist Lahias für ein weiteres Abenteuer "
+"bereit. Manchmal ist es nicht nötig, weit zu kommen..."
 
 #. [side]: type=Highwayman, id=Marma Natin
 #: The_Three_Elves/scenarios/7_Assassins.cfg:54
@@ -1925,7 +2443,9 @@ msgstr "Ich fühle... wir sind nicht allein hier."
 #. [message]: id=Adena
 #: The_Three_Elves/scenarios/7_Assassins.cfg:112
 msgid "Wind if blowing the trees apart, moon don't see that they are smart."
-msgstr "Der Wind weht die Bäume auseinander und läßt den Mond nicht sehen, dass sie klug sind."
+msgstr ""
+"Der Wind weht die Bäume auseinander und läßt den Mond nicht sehen, dass sie "
+"klug sind."
 
 #. [message]: id=Marma Natin
 #: The_Three_Elves/scenarios/7_Assassins.cfg:116
@@ -1939,8 +2459,12 @@ msgstr "Ihr Banditen habt keine Macht hier!"
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/7_Assassins.cfg:124
-msgid "This will be easy battle, we don't need to hire many warriors. Also this region looks poor, there are not many villages."
-msgstr "Dies wird leichter Kampf werden, wir brauchen nicht viele Krieger anzuheuern. Außerdem sieht diese Region arm aus, es gibt nicht viele Dörfer."
+msgid ""
+"This will be easy battle, we don't need to hire many warriors. Also this "
+"region looks poor, there are not many villages."
+msgstr ""
+"Dies wird leichter Kampf werden, wir brauchen nicht viele Krieger "
+"anzuheuern. Außerdem sieht diese Region arm aus, es gibt nicht viele Dörfer."
 
 #. [message]: id=Marma Natin
 #: The_Three_Elves/scenarios/7_Assassins.cfg:129
@@ -1974,8 +2498,12 @@ msgstr "Der dritte Teil der Brücke wurde gebaut."
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/7_Assassins.cfg:192
-msgid "Now we can cross the river. Bridge don't need to be completed. Now we can pass."
-msgstr "Jetzt können wir den Fluss überqueren. Die Brücke muss nicht komplett sein. Nun können wir weitergeben."
+msgid ""
+"Now we can cross the river. Bridge don't need to be completed. Now we can "
+"pass."
+msgstr ""
+"Jetzt können wir den Fluss überqueren. Die Brücke muss nicht komplett sein. "
+"Nun können wir weitergeben."
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/7_Assassins.cfg:205
@@ -2000,7 +2528,8 @@ msgstr "Nerve llaste mawea, tun nuvari sattheya!"
 #. [message]: id=Marma Natin
 #: The_Three_Elves/scenarios/7_Assassins.cfg:305
 msgid "Don't kill me, I was only here to protect this part of the river."
-msgstr "Töte mich nicht, ich war nur hier, um diesen Teil des Flusses zu schützen."
+msgstr ""
+"Töte mich nicht, ich war nur hier, um diesen Teil des Flusses zu schützen."
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/7_Assassins.cfg:309
@@ -2014,13 +2543,21 @@ msgstr "Warum sollte ich es Ihnen sagen?"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/7_Assassins.cfg:317
-msgid "Okay, you don't need to tell us anything. So now we can kill you slowly, really slowly. First, I will cut your arms..."
-msgstr "Okay, du brauchst uns nichts zu sagen Nun wir können dich langsam töten, wirklich langsam. Zuerst werde ich deine Arme abschneiden..."
+msgid ""
+"Okay, you don't need to tell us anything. So now we can kill you slowly, "
+"really slowly. First, I will cut your arms..."
+msgstr ""
+"Okay, du brauchst uns nichts zu sagen Nun wir können dich langsam töten, "
+"wirklich langsam. Zuerst werde ich deine Arme abschneiden..."
 
 #. [message]: id=Marma Natin
 #: The_Three_Elves/scenarios/7_Assassins.cfg:321
-msgid "Stop! Well I will tell you! That ranger is my master. He send me here to kill you, elves."
-msgstr "Stop! Gut, Ich will es dir sagen! Dieser Waldläufer ist mein Herr. Er schickte mich hierher um dich zu töten, Elfen."
+msgid ""
+"Stop! Well I will tell you! That ranger is my master. He send me here to "
+"kill you, elves."
+msgstr ""
+"Stop! Gut, Ich will es dir sagen! Dieser Waldläufer ist mein Herr. Er "
+"schickte mich hierher um dich zu töten, Elfen."
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/7_Assassins.cfg:325
@@ -2039,8 +2576,12 @@ msgstr "Ich habe keinen Bruder. Stirb jetzt!"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/7_Assassins.cfg:347
-msgid "Maybe he lies, but we will do the best if we will go north. Just to see what is going on."
-msgstr "Vielleicht lügt er, aber wir werden besser tun, wenn wir nach Norden gehen. Nur um zu sehen, was los ist."
+msgid ""
+"Maybe he lies, but we will do the best if we will go north. Just to see what "
+"is going on."
+msgstr ""
+"Vielleicht lügt er, aber wir werden besser tun, wenn wir nach Norden gehen. "
+"Nur um zu sehen, was los ist."
 
 #. [scenario]: id=8_a_new_alliance
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:5
@@ -2049,28 +2590,43 @@ msgstr "8) Eine neue Allianz"
 
 #. [part]
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:19
-msgid "The Bandit outpost has beed defeated, but more than just a outpost is now ahead."
-msgstr "Der Banditen Außenposten wurde besiegt, aber mehr als nur ein Außenposten ist nun vor uns."
+msgid ""
+"The Bandit outpost has beed defeated, but more than just a outpost is now "
+"ahead."
+msgstr ""
+"Der Banditen Außenposten wurde besiegt, aber mehr als nur ein Außenposten "
+"ist nun vor uns."
 
 #. [part]
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:22
-msgid "Rihen, the old but still very powerful dvarwish leader, rule this lands. He isn't accepted by the bandits, the new power in this region. Bandit forces are quickly growing, and dwarves cannot hold their own positions."
-msgstr "Rihen, der alte, aber immer noch sehr mächtige Zwergen Anführer regierte diese Länder. Er wurde nicht von den Banditen akzeptiert, die neue Macht in dieser Region. Die Kräfte der Räuber wuchsen schnell, und die Zwerge konnten nicht ihre eigenen Positionen halten."
+msgid ""
+"Rihen, the old but still very powerful dvarwish leader, rule this lands. He "
+"isn't accepted by the bandits, the new power in this region. Bandit forces "
+"are quickly growing, and dwarves cannot hold their own positions."
+msgstr ""
+"Rihen, der alte, aber immer noch sehr mächtige Zwergen Anführer regierte "
+"diese Länder. Er wurde nicht von den Banditen akzeptiert, die neue Macht in "
+"dieser Region. Die Kräfte der Räuber wuchsen schnell, und die Zwerge konnten "
+"nicht ihre eigenen Positionen halten."
 
 #. [part]
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:25
-msgid "Recently, armies of Merhil entered this regions, seeking for bandit lord Terren Leafstel. Will they find, what are they looking for?"
-msgstr "Kürzlich betraten die Heere von Merhil diese Regionen, auf der Suche nach den Räuberfürst Terren Leafstel. Werden sie finden wonach sie suchen?"
+msgid ""
+"Recently, armies of Merhil entered this regions, seeking for bandit lord "
+"Terren Leafstel. Will they find, what are they looking for?"
+msgstr ""
+"Kürzlich betraten die Heere von Merhil diese Regionen, auf der Suche nach "
+"den Räuberfürst Terren Leafstel. Werden sie finden wonach sie suchen?"
 
 #. [side]: type=Dwarvish Arcanister, id=Rihen
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:62
 msgid "Rihen"
 msgstr "Rihen"
 
-#. [side]: type=Royal Warrior, id=Gawin Galvino
+#. [side]: type=Assassin, id=Neria Stormcrow
 #. [side]: type=Fugitive, id=Nadia Natin
 #. [side]: type=Huntsman, id=Muhalin Stormcrow
-#. [side]: type=Assassin, id=Neria Stormcrow
+#. [side]: type=Royal Warrior, id=Gawin Galvino
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:78
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:96
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:112
@@ -2115,8 +2671,13 @@ msgstr "Wirklich? Hehehe..."
 
 #. [message]: id=Gawin Galvino
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:209
-msgid "Elves has come. They are really stupid to come here. Come elves, come, or you will be not able to save your hero."
-msgstr "Die Elfen sind gekommen. Sie sind wirklich dumm, um hierher zu kommen. Kommt Elfen, kommt, sonst werdet ihr nicht in der Lage sein, um euren Helden zu retten."
+msgid ""
+"Elves has come. They are really stupid to come here. Come elves, come, or "
+"you will be not able to save your hero."
+msgstr ""
+"Die Elfen sind gekommen. Sie sind wirklich dumm, um hierher zu kommen. Kommt "
+"Elfen, kommt, sonst werdet ihr nicht in der Lage sein, um euren Helden zu "
+"retten."
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:213
@@ -2130,8 +2691,12 @@ msgstr "Jaaaaa!"
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:221
-msgid "I don't have any brother! Terrel is even not an elvish name. We are here to kill you!"
-msgstr "Ich habe keinen Bruder! Terrel ist nicht einmal ein Elfen Name. Wir sind hier um dich zu töten!"
+msgid ""
+"I don't have any brother! Terrel is even not an elvish name. We are here to "
+"kill you!"
+msgstr ""
+"Ich habe keinen Bruder! Terrel ist nicht einmal ein Elfen Name. Wir sind "
+"hier um dich zu töten!"
 
 #. [message]: id=Rihen
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:225
@@ -2141,12 +2706,17 @@ msgstr "Vorsicht, dieser Räuber ist gefährlich."
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:229
 msgid "Well dwarven chieftain, will you fight this bandits as our ally?"
-msgstr "Nun Zwergen Häuptling, werdet ihr gegen diese Banditen als unser Verbündeter kämpfen?"
+msgstr ""
+"Nun Zwergen Häuptling, werdet ihr gegen diese Banditen als unser Verbündeter "
+"kämpfen?"
 
 #. [message]: id=Rihen
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:233
-msgid "I don't know, maybe... well, I will help you. But I don't have much army."
-msgstr "Ich weiß nicht, vielleicht... gut, ich werde euch helfen. Aber ich habe keine große Armee."
+msgid ""
+"I don't know, maybe... well, I will help you. But I don't have much army."
+msgstr ""
+"Ich weiß nicht, vielleicht... gut, ich werde euch helfen. Aber ich habe "
+"keine große Armee."
 
 #. [message]: id=Gawin Galvino
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:242
@@ -2161,7 +2731,9 @@ msgstr "Hilfe! Bitte!"
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:267
 msgid "HA-HA-HA? I think that I am recognizing that. Where did i hear that?"
-msgstr "HA-HA-HA? Ich glaube ich erkenne dass wieder. Wo habe ich nur solches schon mal gehört?"
+msgstr ""
+"HA-HA-HA? Ich glaube ich erkenne dass wieder. Wo habe ich nur solches schon "
+"mal gehört?"
 
 #. [unit]: type=Outlaw, id=Frederick
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:308
@@ -2180,8 +2752,8 @@ msgstr "Ihr glaubt ihr habt mich besiegt?"
 
 #. [message]: id=Adena
 #. [message]: id=Sidonia
-#: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:95
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:330
+#: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:95
 msgid "Yes, exactly."
 msgstr "Ja, genau."
 
@@ -2197,8 +2769,13 @@ msgstr "Dunkle Königin"
 
 #. [message]: id=Gawin Galvino
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:347
-msgid "Time to die, Sidonia. Bye bye! Also Merhil is living too long. Bye! All of you are going to die HA-HA-HA. Now rise, Lahias, my immortal hero!"
-msgstr "Zeit zu sterben, Sidonia. Tschüss! Auch Merhil lebt schon zu lange. Tschüss! Alle von euch werden sterben. HA-HA-HA. Nun erhebe dich, Lahias, mein unsterblicher Held!"
+msgid ""
+"Time to die, Sidonia. Bye bye! Also Merhil is living too long. Bye! All of "
+"you are going to die HA-HA-HA. Now rise, Lahias, my immortal hero!"
+msgstr ""
+"Zeit zu sterben, Sidonia. Tschüss! Auch Merhil lebt schon zu lange. Tschüss! "
+"Alle von euch werden sterben. HA-HA-HA. Nun erhebe dich, Lahias, mein "
+"unsterblicher Held!"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:394
@@ -2208,7 +2785,9 @@ msgstr "Ja. meine Herrin. Meine Seele wird euch immer dienen."
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:398
 msgid "I am immune to your magic. I am a leader of the grey rangers!"
-msgstr "Ich bin unempfindlich gegenüber deiner Magie. Ich bin ein Anführer der grauen Waldläufer!"
+msgstr ""
+"Ich bin unempfindlich gegenüber deiner Magie. Ich bin ein Anführer der "
+"grauen Waldläufer!"
 
 #. [message]: id=Gawin Galvino
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:402
@@ -2222,8 +2801,12 @@ msgstr "Mit Freuden!"
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:415
-msgid "It looks like he is summoned. I feel sad but I must kill him. I must kill him to stop this madness!"
-msgstr "Es sieht aus als ob er beschworen ist. Ich habe keine andere Wahl, als ihn zu töten. Ich muss ihn töten, um diesen Wahnsinn zu stoppen!"
+msgid ""
+"It looks like he is summoned. I feel sad but I must kill him. I must kill "
+"him to stop this madness!"
+msgstr ""
+"Es sieht aus als ob er beschworen ist. Ich habe keine andere Wahl, als ihn "
+"zu töten. Ich muss ihn töten, um diesen Wahnsinn zu stoppen!"
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:455
@@ -2237,8 +2820,12 @@ msgstr "Zwischenspiel 2 - Ein neuer Weg"
 
 #. [part]
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:14
-msgid "Few days after the battle, Lahias feel that his powers are diminished. Strange combination of the quickly disappearing..."
-msgstr "Wenige Tage nach der Schlacht, fühlte Lahias, dass seine Kräfte vermindert waren. Eine merkwürdige Kombination aus schnell verschwindenden..."
+msgid ""
+"Few days after the battle, Lahias feel that his powers are diminished. "
+"Strange combination of the quickly disappearing..."
+msgstr ""
+"Wenige Tage nach der Schlacht, fühlte Lahias, dass seine Kräfte vermindert "
+"waren. Eine merkwürdige Kombination aus schnell verschwindenden..."
 
 #. [objective]: condition=win
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:61
@@ -2252,13 +2839,26 @@ msgstr "Manche dunkle Magie ist immer noch in mir. Ich kann es fühlen."
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:75
-msgid "Can you describe it? Can you tell us what is still inside you from that undead curse?"
-msgstr "Kannst du es beschreiben? Kannst du uns sagen, was noch in dir ist von den Untoten Fluch?"
+msgid ""
+"Can you describe it? Can you tell us what is still inside you from that "
+"undead curse?"
+msgstr ""
+"Kannst du es beschreiben? Kannst du uns sagen, was noch in dir ist von den "
+"Untoten Fluch?"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:79
-msgid "I'm not sure, it is very dark for me. Some sort of anger, rage. I have a calling, dark words inside my head. They tell me to kill someone, to drain the warm from bodies. It makes me very depressed. Still the same: revenge, slaughter, verrilium, assassinations..."
-msgstr "Ich bin mir nicht sicher, ist es sehr dunkel für mich. Eine Art von Zorn, Wut. Ich habe eine Berufung, dunkle Worte in meinem Kopf. Sie sagen mir, jemanden zu töten, dem warmen Körper auszehren lassen. Es macht mich sehr deprimiert. Immer noch dass gleiche: Rache, Schlachtung, verrilium, Attentate..."
+msgid ""
+"I'm not sure, it is very dark for me. Some sort of anger, rage. I have a "
+"calling, dark words inside my head. They tell me to kill someone, to drain "
+"the warm from bodies. It makes me very depressed. Still the same: revenge, "
+"slaughter, verrilium, assassinations..."
+msgstr ""
+"Ich bin mir nicht sicher, ist es sehr dunkel für mich. Eine Art von Zorn, "
+"Wut. Ich habe eine Berufung, dunkle Worte in meinem Kopf. Sie sagen mir, "
+"jemanden zu töten, dem warmen Körper auszehren lassen. Es macht mich sehr "
+"deprimiert. Immer noch dass gleiche: Rache, Schlachtung, verrilium, "
+"Attentate..."
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:83
@@ -2267,8 +2867,13 @@ msgstr "Verrilium?"
 
 #. [message]: id=Adena
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:87
-msgid "From the past and to the future, long way awaiting you sure. Many death and too much living, fear of the dark is now killing..."
-msgstr "Aus der Vergangenheit und der Zukunft, einen langen Weg erwartet dich sicher. Viel Tod und zu viel leben, es ist die Angst vor der Dunkelheit nun zu morden..."
+msgid ""
+"From the past and to the future, long way awaiting you sure. Many death and "
+"too much living, fear of the dark is now killing..."
+msgstr ""
+"Aus der Vergangenheit und der Zukunft, einen langen Weg erwartet dich "
+"sicher. Viel Tod und zu viel leben, es ist die Angst vor der Dunkelheit nun "
+"zu morden..."
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:91
@@ -2292,8 +2897,12 @@ msgstr "Na ja, gut, kann mir jemand sagen, WAS das alles IST?"
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:111
-msgid "Verillium nur thel nannis, sefiel se na morstallin. Anyone who avoid death, will in time become her messenger."
-msgstr "Verillium nur thel nannis, sefiel se na morstallin. Wer den Tod vermeidet, wird mit der Zeit ihr Bote werden."
+msgid ""
+"Verillium nur thel nannis, sefiel se na morstallin. Anyone who avoid death, "
+"will in time become her messenger."
+msgstr ""
+"Verillium nur thel nannis, sefiel se na morstallin. Wer den Tod vermeidet, "
+"wird mit der Zeit ihr Bote werden."
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:115
@@ -2307,8 +2916,17 @@ msgstr "Du wirst einer der Bösen, wenn ich es richtig verstehe."
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:123
-msgid "Don't worry. Now you can be a very powerful elf. And on the right side of course. You are the one who will defeat the great darkness. You are a part of the ancient propheny: Young and brave, but full of hate, whenever will find a blade, end of circle end of pain, it will become his quest main."
-msgstr "Mach dir keine Sorgen. Jetzt kannst du ein sehr mächtiger Elf werden. Und auf der rechten Seite natürlich. Du bist derjenige, der die große Finsternis besiegen wird. Du bist ein Teil der alten Prophezeiung: Jung und mutig, aber voller Hass, wann immer eine Klinge, das Ende des Kreises der Schmerzen findet, wird es seine Suche selbst."
+msgid ""
+"Don't worry. Now you can be a very powerful elf. And on the right side of "
+"course. You are the one who will defeat the great darkness. You are a part "
+"of the ancient propheny: Young and brave, but full of hate, whenever will "
+"find a blade, end of circle end of pain, it will become his quest main."
+msgstr ""
+"Mach dir keine Sorgen. Jetzt kannst du ein sehr mächtiger Elf werden. Und "
+"auf der rechten Seite natürlich. Du bist derjenige, der die große Finsternis "
+"besiegen wird. Du bist ein Teil der alten Prophezeiung: Jung und mutig, aber "
+"voller Hass, wann immer eine Klinge, das Ende des Kreises der Schmerzen "
+"findet, wird es seine Suche selbst."
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:127
@@ -2317,8 +2935,12 @@ msgstr "Ich? Ich werde ein großer Held werden?"
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:131
-msgid "Nerelia was a priestess of the very old order. She was born to make you safe, until you will be strong enought to..."
-msgstr "Nerelia war eine Priesterin eines sehr alten Orden. Sie wurde geboren, um dich zu sichern, bis du stark genug bist..."
+msgid ""
+"Nerelia was a priestess of the very old order. She was born to make you "
+"safe, until you will be strong enought to..."
+msgstr ""
+"Nerelia war eine Priesterin eines sehr alten Orden. Sie wurde geboren, um "
+"dich zu sichern, bis du stark genug bist..."
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:135
@@ -2327,8 +2949,12 @@ msgstr "Zur Bewältigung eines großen Übels?"
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:140
-msgid "Yes. Now, you must gather your strengh as quickly as possible. Choose someone from us, who will be your trainer."
-msgstr "Ja. Jetzt musst du deine Kräfte so schnell wie möglich sammeln. Wähle jemanden von uns, der dein Trainer sein wird."
+msgid ""
+"Yes. Now, you must gather your strengh as quickly as possible. Choose "
+"someone from us, who will be your trainer."
+msgstr ""
+"Ja. Jetzt musst du deine Kräfte so schnell wie möglich sammeln. Wähle "
+"jemanden von uns, der dein Trainer sein wird."
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:145
@@ -2342,23 +2968,44 @@ msgstr "Adena"
 
 #. [message]: id=Adena
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:152
-msgid "Woods have long stories, full of honor and fear. With my aid, you will be prepared to create great flames and burn your enemies. You will become a mage."
-msgstr "Die Wälder haben lange Geschichten, voller Ehre und Furcht. Mit meiner Hilfe wirst du bereit sein, große Flammen zu erstellen und deine Feinde zu verbrennen. Du wirst ein Magier werden."
+msgid ""
+"Woods have long stories, full of honor and fear. With my aid, you will be "
+"prepared to create great flames and burn your enemies. You will become a "
+"mage."
+msgstr ""
+"Die Wälder haben lange Geschichten, voller Ehre und Furcht. Mit meiner Hilfe "
+"wirst du bereit sein, große Flammen zu erstellen und deine Feinde zu "
+"verbrennen. Du wirst ein Magier werden."
 
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:173
-msgid "Want to know, what a real leader need? It's respect. You will be strong as a rock, and your warriors will want to be like you Lahias, Elvish Champion."
-msgstr "Willst du wissen, was ein wirklicher Führer braucht? Es ist Respekt. Du wirst stark sein wie ein Fels, und deine Krieger werden machen was du willst Lahias, Elfen Held."
+msgid ""
+"Want to know, what a real leader need? It's respect. You will be strong as a "
+"rock, and your warriors will want to be like you Lahias, Elvish Champion."
+msgstr ""
+"Willst du wissen, was ein wirklicher Führer braucht? Es ist Respekt. Du "
+"wirst stark sein wie ein Fels, und deine Krieger werden machen was du willst "
+"Lahias, Elfen Held."
 
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:193
-msgid "Woods are dark during night, full of fear. Become a fearless prowler, take the powers of the moon. From today, you will be one of the most powerful silver rangers."
-msgstr "Die Wälder sind dunkel in der Nacht, voller Angst. Du wirst ein furchtloser Fallensteller, übernehme die Kräfte des Mondes. Ab heute bist du einer der mächtigsten silbernen Waldläufer."
+msgid ""
+"Woods are dark during night, full of fear. Become a fearless prowler, take "
+"the powers of the moon. From today, you will be one of the most powerful "
+"silver rangers."
+msgstr ""
+"Die Wälder sind dunkel in der Nacht, voller Angst. Du wirst ein furchtloser "
+"Fallensteller, übernehme die Kräfte des Mondes. Ab heute bist du einer der "
+"mächtigsten silbernen Waldläufer."
 
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:213
-msgid "As you wish, my little hero. With your fighting ability and my magic power, you will become a powerful elvish lord."
-msgstr "Wie du wünscht, mein kleiner Held. Mit deiner Kampfkraft und meiner magische Macht, wirst du ein mächtiger Elfen Fürst werden."
+msgid ""
+"As you wish, my little hero. With your fighting ability and my magic power, "
+"you will become a powerful elvish lord."
+msgstr ""
+"Wie du wünscht, mein kleiner Held. Mit deiner Kampfkraft und meiner magische "
+"Macht, wirst du ein mächtiger Elfen Fürst werden."
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:231
@@ -2372,8 +3019,13 @@ msgstr "Zwischenspiel - Fluss Überquerung"
 
 #. [part]
 #: The_Three_Elves/scenarios/Interlude_river_crossing.cfg:22
-msgid "Lahias is on his own quest - trying to kill one of the liches. Will he be able to bring the end to the lich and avoid his own destruction?"
-msgstr "Lahias ist auf seiner eigene Suche - er versucht einen der Lichs zu töten. Wird er es schaffen den Lich zu Ende zu bringen und sein eigenes Verderben vermeiden?"
+msgid ""
+"Lahias is on his own quest - trying to kill one of the liches. Will he be "
+"able to bring the end to the lich and avoid his own destruction?"
+msgstr ""
+"Lahias ist auf seiner eigene Suche - er versucht einen der Lichs zu töten. "
+"Wird er es schaffen den Lich zu Ende zu bringen und sein eigenes Verderben "
+"vermeiden?"
 
 #. [objective]: condition=win
 #: The_Three_Elves/scenarios/Interlude_river_crossing.cfg:80
@@ -2388,8 +3040,12 @@ msgstr "Tod von Lahias"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/Interlude_river_crossing.cfg:121
-msgid "Taste my steel and rest in pieces! You cannot avoid your innevitable death, dark mage!"
-msgstr "Koste meinen Stahl und Ruhe in Stücke! Du kannst deinen unvermeidlichen Tod nicht vermeiden, dunkler Magier!"
+msgid ""
+"Taste my steel and rest in pieces! You cannot avoid your innevitable death, "
+"dark mage!"
+msgstr ""
+"Koste meinen Stahl und Ruhe in Stücke! Du kannst deinen unvermeidlichen Tod "
+"nicht vermeiden, dunkler Magier!"
 
 #. [message]: id=Tademanar
 #: The_Three_Elves/scenarios/Interlude_river_crossing.cfg:125
@@ -2398,8 +3054,12 @@ msgstr "Tod? HA-HA-HA"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/Interlude_river_crossing.cfg:143
-msgid "It would be wise to wait until the dawn. The attacks of that lich will be much weaker during the day."
-msgstr "Es wäre klug, bis zum Morgengrauen zu warten. Die Angriffe des Lich werden deutlich schwächer während des Tages."
+msgid ""
+"It would be wise to wait until the dawn. The attacks of that lich will be "
+"much weaker during the day."
+msgstr ""
+"Es wäre klug, bis zum Morgengrauen zu warten. Die Angriffe des Lich werden "
+"deutlich schwächer während des Tages."
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/Interlude_river_crossing.cfg:156
@@ -2408,8 +3068,12 @@ msgstr "Das ist dein Ende, dunkler Magier!"
 
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/Interlude_river_crossing.cfg:160
-msgid "What?! What is happening to me? Aaaaaargh! Every part of my body hurts me! I... I... I feel the dark energy!"
-msgstr "Was?! Was ist mit mir? Aaaaaargh! Jeder Teil meines Körpers schmerzt mir! Ich... Ich... Ich spüre die dunkle Energie!"
+msgid ""
+"What?! What is happening to me? Aaaaaargh! Every part of my body hurts me! "
+"I... I... I feel the dark energy!"
+msgstr ""
+"Was?! Was ist mit mir? Aaaaaargh! Jeder Teil meines Körpers schmerzt mir! "
+"Ich... Ich... Ich spüre die dunkle Energie!"
 
 #. [unit_type]: id=Elvish Hunter, race=elf
 #: The_Three_Elves/units/Elvish_Hunter.cfg:5
@@ -2418,8 +3082,17 @@ msgstr "Elfen Jäger"
 
 #. [unit_type]: id=Elvish Hunter, race=elf
 #: The_Three_Elves/units/Elvish_Hunter.cfg:32
-msgid "The elvish militia is mainly composed of civilians who have dropped their bows in favour of entangling unwary oponents using their bolas, and then finish them off with their swords. They are trained to scour the woods, hills and mountains for prey and enemies."
-msgstr "Die Elfen Milizen wird hauptsächlich von Zivilisten gebildet, die ihre Bögen fallen gelassen haben zugunsten der Verstrickung von unachtsamen gegnern mit ihren Bolas, und anschließend beenden sie sie mit ihren Schwertern. Sie werden geschult um die Wäldern, Hügeln und Bergen nach Beute und Feinde zu durchkämmen."
+msgid ""
+"The elvish militia is mainly composed of civilians who have dropped their "
+"bows in favour of entangling unwary oponents using their bolas, and then "
+"finish them off with their swords. They are trained to scour the woods, "
+"hills and mountains for prey and enemies."
+msgstr ""
+"Die Elfen Milizen wird hauptsächlich von Zivilisten gebildet, die ihre Bögen "
+"fallen gelassen haben zugunsten der Verstrickung von unachtsamen gegnern mit "
+"ihren Bolas, und anschließend beenden sie sie mit ihren Schwertern. Sie "
+"werden geschult um die Wäldern, Hügeln und Bergen nach Beute und Feinde zu "
+"durchkämmen."
 
 #. [attack]: type=impact
 #: The_Three_Elves/units/Elvish_Hunter.cfg:50
@@ -2440,8 +3113,17 @@ msgstr "Elfen Herumtreiber"
 
 #. [unit_type]: id=Elvish Prowler, race=elf
 #: The_Three_Elves/units/Elvish_Prowler.cfg:35
-msgid "Elvish Prowlers sneak across the woods, searching out enemies and protecting their people. They are trained to slip past enemies unnoticed and flank them. The combination of their bolas and blades allows them to cripple and kill opponents with alarming ease."
-msgstr "Elfen Herumtreiber schleichen sich durch den Wald, auf der Suche nach Feinden und zum Schutz ihrer Bevölkerung. Sie sind geschult, um an ihren Feinden vorbei unbemerkt zu Schlüpfen. Die Kombination ihrer Bolas und Klingen ermöglicht es ihnen, das lähmen und töten der Gegner mit erschreckender Leichtigkeit."
+msgid ""
+"Elvish Prowlers sneak across the woods, searching out enemies and protecting "
+"their people. They are trained to slip past enemies unnoticed and flank "
+"them. The combination of their bolas and blades allows them to cripple and "
+"kill opponents with alarming ease."
+msgstr ""
+"Elfen Herumtreiber schleichen sich durch den Wald, auf der Suche nach "
+"Feinden und zum Schutz ihrer Bevölkerung. Sie sind geschult, um an ihren "
+"Feinden vorbei unbemerkt zu Schlüpfen. Die Kombination ihrer Bolas und "
+"Klingen ermöglicht es ihnen, das lähmen und töten der Gegner mit "
+"erschreckender Leichtigkeit."
 
 #. [female]
 #: The_Three_Elves/units/Elvish_Prowler.cfg:148
@@ -2455,8 +3137,14 @@ msgstr "Elfen Fallensteller"
 
 #. [unit_type]: id=Elvish Trapper, race=elf
 #: The_Three_Elves/units/Elvish_Trapper.cfg:34
-msgid "Elvish Trappers patrol the woods; they are trained to avoid enemies when it is advantageous. They can cripple opponents with their bolas and are deadly with their swords."
-msgstr "Elfen Fallensteller patrouillieren im Wald, und sie sind geschult, um Feinde zu vermeiden, wenn es vorteilhaft ist. Sie können Gegner lähmen mit ihren Bolas und sind mit ihren Schwertern tödlich."
+msgid ""
+"Elvish Trappers patrol the woods; they are trained to avoid enemies when it "
+"is advantageous. They can cripple opponents with their bolas and are deadly "
+"with their swords."
+msgstr ""
+"Elfen Fallensteller patrouillieren im Wald, und sie sind geschult, um Feinde "
+"zu vermeiden, wenn es vorteilhaft ist. Sie können Gegner lähmen mit ihren "
+"Bolas und sind mit ihren Schwertern tödlich."
 
 #. [female]
 #: The_Three_Elves/units/Elvish_Trapper.cfg:129
@@ -2490,8 +3178,12 @@ msgstr "Tod? Hörst du mich? Das ist nicht meine Zeit! Noch nicht! Arghhh!"
 
 #. [message]: speaker=unit
 #: The_Three_Elves/utils/deaths.cfg:28
-msgid "I am taking some rest now... Far from the sounds of battle and bloodhirsty beasts... Farewell, my friends!"
-msgstr "Ich komme nun zur Ruh ... Weit weg vom Lärm der Schlacht und blutigen Bestien... Lebt wohl, Freunde!"
+msgid ""
+"I am taking some rest now... Far from the sounds of battle and bloodhirsty "
+"beasts... Farewell, my friends!"
+msgstr ""
+"Ich komme nun zur Ruh ... Weit weg vom Lärm der Schlacht und blutigen "
+"Bestien... Lebt wohl, Freunde!"
 
 #. [message]: speaker=unit
 #: The_Three_Elves/utils/deaths.cfg:45
@@ -2506,7 +3198,9 @@ msgstr "Es ist vorbei, wer beherrscht jetzt Carcifall?"
 #. [message]: speaker=unit
 #: The_Three_Elves/utils/deaths.cfg:78
 msgid "Our tactics was wrong. There is no hope, I failed you, elves."
-msgstr "Unsere Taktiken waren falsch. Es gibt keine Hoffnung, ich bin gescheitert, Elfen."
+msgstr ""
+"Unsere Taktiken waren falsch. Es gibt keine Hoffnung, ich bin gescheitert, "
+"Elfen."
 
 #. [message]: speaker=unit
 #: The_Three_Elves/utils/deaths.cfg:94
