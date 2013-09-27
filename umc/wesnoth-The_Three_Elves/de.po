@@ -1599,7 +1599,6 @@ msgstr "Wir sind auf der Jagd nach den Verräter Samin Leafstel."
 # File: The_Three_Elves/scenarios/4_The_great_march.cfg, line: 225
 #. [message]: id=Trug
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:222
-
 msgid "Oh, maybe you can go west. You eat Sama... elf."
 msgstr "Oh, dann vielleicht könnt ihr Westen gehen. Ihr essen Sama… Elf."
 
@@ -1617,7 +1616,6 @@ msgstr ""
 # File: The_Three_Elves/scenarios/4_The_great_march.cfg, line: 238
 #. [message]: id=Trug
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:235
-
 msgid ""
 "Queen? Hm... Me guess you can go west. Queen is good. Queen send food to "
 "Trug. Food come tied and no have weapons."
@@ -1647,7 +1645,6 @@ msgstr ""
 # File: The_Three_Elves/scenarios/4_The_great_march.cfg, line: 263
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:260
-
 msgid ""
 "I have a very bad feeling about that journey of Lahias. Do you think he is "
 "allright? I hope he is not wounded or... something worse."
@@ -1749,7 +1746,6 @@ msgstr "Mufi"
 # File: The_Three_Elves/scenarios/4_The_great_march.cfg, line: 320
 #. [message]: id=Groshak
 #: The_Three_Elves/scenarios/4_The_great_march.cfg:317
-
 msgid ""
 "To the city, quick! Pillage every single... what are these elves doing here?"
 msgstr ""
@@ -1971,7 +1967,6 @@ msgstr "Wir werden über diese Stadt herfallen!"
 # File: The_Three_Elves/scenarios/5_Party_for_vultures.cfg, line: 411
 #. [message]: id=Samin
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:405
-
 msgid "Never..."
 msgstr "Niemals…"
 
@@ -2125,7 +2120,6 @@ msgstr "Wir brauchen mehr Krieger um die Stadt zu verteidigen!"
 # File: The_Three_Elves/scenarios/5_Party_for_vultures.cfg, line: 492
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:486
-
 msgid "Maybe I can summon some of them..."
 msgstr "Vielleicht kann ich einige von ihnen heraufbeschwören…"
 
@@ -2180,7 +2174,6 @@ msgstr "Heraufbeschworener Elf"
 # File: The_Three_Elves/scenarios/5_Party_for_vultures.cfg, line: 538
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:532
-
 msgid "And now, my most powerful one..."
 msgstr "Und nun, mein mächtigster…"
 
@@ -2287,7 +2280,6 @@ msgstr ""
 # File: The_Three_Elves/scenarios/5_Party_for_vultures.cfg, line: 668
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/5_Party_for_vultures.cfg:662
-
 msgid "And about you, lich... Nar de tasimal su vere na morthipis!"
 msgstr "Und nun zu dir, Lich … Nar de tasimal su Vere na morthipis!"
 
@@ -2728,7 +2720,6 @@ msgstr "Tunlua este se verle natalas!"
 # File: The_Three_Elves/scenarios/6_Final_assault.cfg, line: 443
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:437
-
 msgid "Ehm... no effect..."
 msgstr "Ähm… es funktioniert nicht…"
 
@@ -2743,7 +2734,6 @@ msgstr "<b>TUNLUA ESTE SE VERLE NATALAS!</b>"
 # File: The_Three_Elves/scenarios/6_Final_assault.cfg, line: 451
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:445
-
 msgid "Ehm... What about other spells?"
 msgstr "Ähm… Was ist mit anderen Zaubersprüchen?"
 
@@ -2880,7 +2870,6 @@ msgstr "Sidonia, verlass uns jetzt. Geh mir aus den Augen!"
 # File: The_Three_Elves/scenarios/6_Final_assault.cfg, line: 565
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:559
-
 msgid "Wait. Okay Samin, I... I..."
 msgstr "Warte. Gut Samin, Ich… Ich…"
 
@@ -3028,7 +3017,6 @@ msgstr ""
 # File: The_Three_Elves/scenarios/6_Final_assault.cfg, line: 757
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:751
-
 msgid ""
 "I... I... feel paralised. My body is growing heavy. My power is disappearing."
 msgstr ""
@@ -3067,7 +3055,6 @@ msgstr "Talamen nu nakore pus tame hallore!"
 # File: The_Three_Elves/scenarios/6_Final_assault.cfg, line: 782
 #. [message]: id=Nerelia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:776
-
 msgid ""
 "AAAAARGH! It is a great pain. I think that it bursting my body into pieces. "
 "My journey ends he..."
@@ -3107,7 +3094,6 @@ msgstr "Die Bürger von Carcifall senden 100 Goldstücke für jeden von uns."
 # File: The_Three_Elves/scenarios/6_Final_assault.cfg, line: 819
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:813
-
 msgid ""
 "Maybe some magic can help us reach that chamber quickly... nan su faleh "
 "ternista, la fel mer hil tufewea!"
@@ -3160,7 +3146,6 @@ msgstr "Jetzt wirst du wieder ein Elf sein. Nitruli merde selim alaman!"
 # File: The_Three_Elves/scenarios/6_Final_assault.cfg, line: 912
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/6_Final_assault.cfg:906
-
 msgid "Aaaaagh! I feel... life! Is that you, Nerelia?"
 msgstr "Herrje! Ich fühle … Leben! Bist du dass, Nerelia?"
 
@@ -3210,7 +3195,6 @@ msgstr "7) Attentäter"
 # File: The_Three_Elves/scenarios/7_Assassins.cfg, line: 24
 #. [part]
 #: The_Three_Elves/scenarios/7_Assassins.cfg:24
-
 msgid ""
 "After regaining his power, Lahias is looking for another adventure. "
 "Sometimes it's not needed to come far..."
@@ -3243,7 +3227,6 @@ msgstr "Besiege Marma Natin"
 # File: The_Three_Elves/scenarios/7_Assassins.cfg, line: 109
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/7_Assassins.cfg:108
-
 msgid "I feel... we are not alone here."
 msgstr "Ich fühle… wir sind nicht alleine hier."
 
@@ -3387,7 +3370,6 @@ msgstr "Warum sollte ich dir das sagen?"
 # File: The_Three_Elves/scenarios/7_Assassins.cfg, line: 318
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/7_Assassins.cfg:317
-
 msgid ""
 "Okay, you don't need to tell us anything. So now we can kill you slowly, "
 "really slowly. First, I will cut your arms..."
@@ -3550,7 +3532,6 @@ msgstr "Zieht weiter, Banditen. Diese Ländereien gehören nicht euch!"
 # File: The_Three_Elves/scenarios/8_A_new_alliance.cfg, line: 205
 #. [message]: id=Neria Stormcrow
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:205
-
 msgid "Really? Hehehe..."
 msgstr "Wirklich? Hehehe…"
 
@@ -3611,7 +3592,6 @@ msgstr ""
 # File: The_Three_Elves/scenarios/8_A_new_alliance.cfg, line: 233
 #. [message]: id=Rihen
 #: The_Three_Elves/scenarios/8_A_new_alliance.cfg:233
-
 msgid ""
 "I don't know, maybe... well, I will help you. But I don't have much army."
 msgstr ""
@@ -3757,7 +3737,6 @@ msgstr "Zwischenspiel 2 - Ein neuer Weg"
 # File: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg, line: 14
 #. [part]
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:14
-
 msgid ""
 "Few days after the battle, Lahias feel that his powers are diminished. "
 "Strange combination of the quickly disappearing..."
@@ -3794,7 +3773,6 @@ msgstr ""
 # File: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg, line: 79
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:79
-
 msgid ""
 "I'm not sure, it is very dark for me. Some sort of anger, rage. I have a "
 "calling, dark words inside my head. They tell me to kill someone, to drain "
@@ -3817,7 +3795,6 @@ msgstr "Verrilium?"
 # File: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg, line: 87
 #. [message]: id=Adena
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:87
-
 msgid ""
 "From the past and to the future, long way awaiting you sure. Many death and "
 "too much living, fear of the dark is now killing..."
@@ -3829,7 +3806,6 @@ msgstr ""
 # File: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg, line: 91
 #. [message]: id=Sidonia
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:91
-
 msgid "You mean... ?"
 msgstr "Du meinst… ?"
 
@@ -3908,7 +3884,6 @@ msgstr "Ich? Ich werde ein großer Held werden?"
 # File: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg, line: 131
 #. [message]: id=Merhil
 #: The_Three_Elves/scenarios/Interlude2_a_new_way.cfg:131
-
 msgid ""
 "Nerelia was a priestess of the very old order. She was born to make you "
 "safe, until you will be strong enought to..."
@@ -4079,7 +4054,6 @@ msgstr "Das ist dein Ende, dunkler Magier!"
 # File: The_Three_Elves/scenarios/Interlude_river_crossing.cfg, line: 161
 #. [message]: id=Lahias
 #: The_Three_Elves/scenarios/Interlude_river_crossing.cfg:160
-
 msgid ""
 "What?! What is happening to me? Aaaaaargh! Every part of my body hurts me! "
 "I... I... I feel the dark energy!"
@@ -4223,7 +4197,6 @@ msgstr "Tod? Hörst du mich? Das ist nicht meine Zeit! Noch nicht! Arghhh!"
 # File: The_Three_Elves/utils/deaths.cfg, line: 28
 #. [message]: speaker=unit
 #: The_Three_Elves/utils/deaths.cfg:28
-
 msgid ""
 "I am taking some rest now... Far from the sounds of battle and bloodhirsty "
 "beasts... Farewell, my friends!"
@@ -4235,7 +4208,6 @@ msgstr ""
 # File: The_Three_Elves/utils/deaths.cfg, line: 45
 #. [message]: speaker=unit
 #: The_Three_Elves/utils/deaths.cfg:45
-
 msgid "I'm too young for such an unhappy end! Nooo..."
 msgstr "Ich bin zu jung für solche ein unglückliches Ende! Neeein…"
 
@@ -4331,13 +4303,3 @@ msgstr "Tod von Sidonia"
 #: The_Three_Elves/utils/utils.cfg:58
 msgid "Death of Adena"
 msgstr "Tod von Adena"
-
-#
-# File: The_Three_Elves/scenarios/4_The_great_march.cfg, line: 209
-#~ msgid "We…"
-#~ msgstr "Wir…"
-
-#
-# File: The_Three_Elves/scenarios/6_Final_assault.cfg, line: 455
-#~ msgid "Damn…"
-#~ msgstr "Verdammt…"
