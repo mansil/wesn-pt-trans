@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2012-12-14 07:14-0500\n"
+"POT-Creation-Date: 2013-07-13 10:21-0400\n"
 "PO-Revision-Date: 2013-03-09 23:53+0100\n"
 "Last-Translator: trewe <sjrs456@yahoo.fr>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -3757,6 +3757,7 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 5
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 5
 msgid "The High Seas"
 msgstr "In mari"
 
@@ -3778,18 +3779,21 @@ msgstr "Nobis infecto negotio intendere."
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 436
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 430
 msgid "Scenario Rules:"
 msgstr "Missionem Regulae:"
 
 #
 # reprovision?
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 438
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 432
 #, fuzzy
 msgid "Land in a harbor to reprovision."
 msgstr "Nave egredi in portum ad reprovision."
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 442
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 436
 msgid ""
 "The Wesnothian ships are chasing you; if they attack you they will attempt "
 "to board the ship."
@@ -3797,12 +3801,14 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 446
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 440
 msgid ""
 "Each of their ships has enough provisions to completely restock your ship."
 msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 450
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 444
 msgid ""
 "Your long-term objective is to reach the lands in the West where Black the "
 "Red says there are allies, and have them join you."
@@ -3810,26 +3816,31 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 454
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 448
 msgid "Until then you cannot return to Elensefar."
 msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 458
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 452
 msgid "Be at sea for 6 weeks (6 turns) without reprovisioning"
 msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 458
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 452
 msgid "(current $turnsleft provisions remaining)"
 msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 462
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 456
 msgid "Take more than 30 weeks to reach the western lands"
 msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 482
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 476
 msgid ""
 "We have left Elensefar in the hands of the orcs. If we do not return soon, "
 "it will be of no use to return at all. We have at most 30 weeks to get to "
@@ -3839,6 +3850,7 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 491
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 485
 msgid ""
 "Also, our ship cannot hold provisions for more than 6 weeks at a time, so we "
 "must either land on an island or capture an enemy ship ever 6 weeks."
@@ -3846,6 +3858,7 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 514
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 508
 msgid ""
 "We only have enough provisions for $turnsleft weeks; we must reach the "
 "Western Lands in $gameleft weeks."
@@ -3853,6 +3866,7 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 529
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 523
 msgid ""
 "Hurry, we are down to our last provisions! If we don't refill them within a "
 "week, we will all starve!"
@@ -3860,16 +3874,19 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 538
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 532
 msgid "We have ran out of provisions.... *urgh*"
 msgstr "Sumus cucurrit de commeatus.... * urgh *"
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 566
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 558
 msgid "We have failed reaching the Westlands in time."
 msgstr "Usque in terras Occidentalium defecimus."
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 698
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 690
 msgid ""
 "There does not seem to be anyone living on this island... except, it seems, "
 "that black-cowled man on the far side..."
@@ -3879,6 +3896,7 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 707
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 699
 msgid ""
 "Last time I was here there was a trading colony, but it seems to be gone. "
 "Their old stockades should still be here, anyway."
@@ -3888,11 +3906,13 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 716
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 708
 msgid "I think something is in the water..."
 msgstr "Credo aliquid est in aqua..."
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 725
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 717
 msgid ""
 "Legend says Haldric landed here on his journey over, and that he fought "
 "something. Lets hope we don't have to fight whatever it was..."
@@ -3902,22 +3922,26 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 734
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 726
 msgid "This island looks vaguely elvish."
 msgstr "Hoc insula spectat quadam confusa dryadalum."
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 743
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 735
 msgid "Does anything live in this frozen wasteland?"
 msgstr "Aliquid vivere in hoc gelida invio?"
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 752
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 744
 msgid ""
 "I see signs of a Wesnothian outpost. Odd they would come so far south..."
 msgstr "Video signa Vesnote stationem. Impar se tam longe meridiem..."
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 761
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 753
 msgid ""
 "Nagas were about a hundred years ago, in Haldric's time! I wonder if any "
 "remain..."
@@ -3925,6 +3949,7 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 770
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 762
 msgid ""
 "This is old Clearwater Port! It was sacked by orcs long ago, I doubt there "
 "are any humans left."
@@ -3934,6 +3959,7 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 779
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 771
 msgid ""
 "This is the land I was talking about. Land here, and we will get the "
 "warriors we need."
@@ -3943,6 +3969,7 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 788
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 780
 msgid ""
 "The Great Academy of Alduin is settled on this isle! Let us hold here for a "
 "day or two."
@@ -3952,24 +3979,28 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 797
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 789
 msgid "This island looks desert."
 msgstr "Hoc insula vultus deserti."
 
 #
 # sandbar?
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 806
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 798
 msgid "Carefull with those riffs, or we will shipwreck"
 msgstr "Diligenter cum sandbar, aut voluntas naufragium"
 
 #
 # smugglers?
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 815
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 807
 #, fuzzy
 msgid "This is just an abandoned smugglers hole."
 msgstr "Hoc iustum est perditis smugglers cavum."
 
 #
 # File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 824
+# File: Saving_Elensefar/scenarios/r_The_High_Seas.cfg, line: 816
 msgid "There is a great tower on the isle. Which kind of mage live here?"
 msgstr "Est in insula turris magna. Quod genus magus vivere hic?"
 
@@ -4217,12 +4248,14 @@ msgstr ""
 
 #
 # File: Saving_Elensefar/utils/abilities.cfg, line: 17
+# File: Saving_Elensefar/utils/abilities.cfg, line: 17
 msgid ""
 " This unit is able to grant the skirmisher ability to allied units that "
 "stand next to it on start of his turn."
 msgstr ""
 
 #
+# File: Saving_Elensefar/utils/abilities.cfg, line: 20
 # File: Saving_Elensefar/utils/abilities.cfg, line: 20
 msgid ""
 " The ability to teach battle experience to adjacent allied units allows them "
@@ -4240,56 +4273,57 @@ msgstr ""
 # File: Saving_Elensefar/utils/abilities.cfg, line: 27
 #. [blitz]: id=blitz
 msgid ""
-"Blitz:\n"
 "Allies that start their turn adjacent to this unit are granted Skirmisher "
 "for that turn."
 msgstr ""
 
 #
 # File: Saving_Elensefar/utils/abilities.cfg, line: 120
+# File: Saving_Elensefar/utils/abilities.cfg, line: 121
 msgid "battle tutor"
 msgstr "proelium Tutoris"
 
 #
-# File: Saving_Elensefar/utils/abilities.cfg, line: 121
+# File: Saving_Elensefar/utils/abilities.cfg, line: 122
 msgid ""
-"Battle Tutor:\n"
 "This unit's ability to teach battle skills gives each adjacent allied unit a "
 "small boost to experience earned in battle."
 msgstr ""
 
 #
-# File: Saving_Elensefar/utils/abilities.cfg, line: 171
-msgid "+ $second_unit.level| XP"
+# File: Saving_Elensefar/utils/abilities.cfg, line: 167
+msgid "$second_unit.level XP"
 msgstr ""
 
 #
 # File: Saving_Elensefar/utils/abilities.cfg, line: 189
+# File: Saving_Elensefar/utils/abilities.cfg, line: 179
 msgid "Battle Tutor"
 msgstr "proelium Tutoris"
 
 #
-# File: Saving_Elensefar/utils/abilities.cfg, line: 190
+# File: Saving_Elensefar/utils/abilities.cfg, line: 180
 msgid ""
-"Battle Tutor:\n"
 "This unit's ability to teach battle skills gives each adjacent allied unit a "
 "small boost to his experience earned in battle."
 msgstr ""
 
 #
 # File: Saving_Elensefar/utils/abilities.cfg, line: 258
-msgid "+ $hits| XP"
+# File: Saving_Elensefar/utils/abilities.cfg, line: 245
+#, fuzzy
+msgid "$hits XP"
 msgstr "+ $hits| PU"
 
 #
 # File: Saving_Elensefar/utils/abilities.cfg, line: 401
+# File: Saving_Elensefar/utils/abilities.cfg, line: 388
 msgid "charm"
 msgstr "incantatio"
 
 #
-# File: Saving_Elensefar/utils/abilities.cfg, line: 402
+# File: Saving_Elensefar/utils/abilities.cfg, line: 389
 msgid ""
-"Charm:\n"
 "This unit charms its opponents, whenever it hits on attack the defender "
 "jumps instantely to the attacker side.\n"
 "\n"
@@ -4483,6 +4517,7 @@ msgstr "Spero nunquam opus."
 
 #
 # File: Saving_Elensefar/utils/utils.cfg, line: 235
+# File: Saving_Elensefar/utils/utils.cfg, line: 232
 msgid "We run out of supplies and cannot pay our troops their upkeep."
 msgstr ""
 

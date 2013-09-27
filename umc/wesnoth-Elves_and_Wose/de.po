@@ -1707,6 +1707,7 @@ msgstr ""
 
 #
 # File: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg, line: 8
+# File: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg, line: 8
 msgid ""
 "<i>2P Multiplayer Campaign</i>\n"
 "\n"
@@ -1715,6 +1716,7 @@ msgstr ""
 "\n"
 
 #
+# File: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg, line: 10
 # File: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg, line: 10
 msgid ""
 "This is the story of Saleh's adventures, a faithful companion of the High "
@@ -1731,6 +1733,7 @@ msgstr ""
 
 #
 # File: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg, line: 12
+# File: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg, line: 12
 msgid ""
 "Note: The multiplayer port is an early development release, no balance at "
 "all and there may persist bugs"
@@ -1738,20 +1741,24 @@ msgstr ""
 
 #
 # File: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg, line: 16
+# File: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg, line: 16
 msgid "EW - 2p MC (easy)"
 msgstr "EW - 2s MC (leicht)"
 
 #
+# File: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg, line: 21
 # File: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg, line: 21
 msgid "EW - 2p MC (normal)"
 msgstr "EW - 2s MC (normal)"
 
 #
 # File: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg, line: 26
+# File: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg, line: 26
 msgid "EW - 2p MC (hard)"
 msgstr "EW - 2s MC (hart)"
 
 #
+# File: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg, line: 31
 # File: Elves_and_Wose/scenarios/1_Glyns_Forest.cfg, line: 31
 msgid "Glyn's Forest"
 msgstr ""
