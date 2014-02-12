@@ -22,7 +22,7 @@ msgstr ""
 
 #. [generic_multiplayer]: id=user_map
 msgid "User Map"
-msgstr "Mapa próprio"
+msgstr "Mapa do Utilizador"
 
 #
 #. [multiplayer_side]: id=Custom
@@ -68,8 +68,8 @@ msgid ""
 "The standard era for Wesnoth multiplayer. Consists of six factions and is "
 "generally balanced."
 msgstr ""
-"A era por padrão para jogos em rede em Wesnoth. Consiste de seis facções e é "
-"geralmente considerada balanceada."
+"A era padrão para os jogos em rede do Wesnoth. Consiste em seis fações e é "
+"geralmente balanceada."
 
 #
 #. [era]: id=era_heroes
@@ -84,12 +84,12 @@ msgid ""
 "balanced."
 msgstr ""
 "Uma era com unidades de nível mais avançado: líderes de nível três com "
-"recrutas de nível dois ou um. Consiste de seis facções e não é considerada "
-"balanceada."
+"unidades de nível um e dois para os recrutas. Consiste em seis facções "
+" e não é considerada balanceada."
 
 #. [era]: id=era_khalifate
 msgid "Default + Khalifate"
-msgstr "Padrão + Califado"
+msgstr "Predefinição + Califado"
 
 #. [era]: id=era_khalifate
 msgid ""
