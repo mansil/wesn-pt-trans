@@ -16,7 +16,7 @@ msgstr  "Project-Id-Version: Battle for Wesnoth 1.12\n"
 #
 #. [campaign]: id=The_South_Guard
 msgid   "The South Guard"
-msgstr  "A Guarda do Sul"
+msgstr  "O Guarda do Sul"
 #
 #. [campaign]: id=The_South_Guard
 msgid   "TSG"
@@ -40,7 +40,7 @@ msgstr  "(Nível principiante, 9 cenários)"
 #
 #. [campaign]: id=The_South_Guard
 msgid   "(Beginner)"
-msgstr  "(Iniciante)"
+msgstr  "(Principiante)"
 #
 #. [campaign]: id=The_South_Guard
 msgid   "Civilian"
@@ -64,15 +64,15 @@ msgstr  "Soldado"
 #
 #. [about]
 msgid   "Campaign Design"
-msgstr  "Projecto de Campanha"
+msgstr  "Projeto de Campanha"
 #
 #. [about]
 msgid   "Campaign Maintenance"
-msgstr  "manutenção da Campanha"
+msgstr  "Manutenção da Campanha"
 #
 #. [about]
 msgid   "Artwork and Graphics Design"
-msgstr  "trabalho artístico e Projecto Gráfico"
+msgstr  "Trabalho artístico e Projeto Gráfico"
 #
 #. [scenario]: id=01_Born_to_the_Banner
 msgid   "Born to the Banner"
@@ -89,7 +89,7 @@ msgstr  "Deoran"
 #. [side]: type=Lieutenant, id=Plynry
 #. [side]: type=Troll Hero, id=Grek
 msgid   "South Guard"
-msgstr  "A Guarda do Sul"
+msgstr  "Guarda do Sul"
 #
 #. [side]: type=Bandit, id=Urza Mathin
 msgid   "Urza Mathin"
@@ -1805,11 +1805,11 @@ msgstr  "Só mais um pouco!"
 #
 #. [message]: speaker=Urza Afalas
 msgid   "We’re almost there!"
-msgstr  "Estamos quase lá!"
+msgstr  "Nós estamos quase lá!"
 #
 #. [message]: speaker=Urza Afalas
 msgid   "Come on! Hurry!"
-msgstr  "Vamos! Depressa!"
+msgstr  "Vamos! Despacha-te!"
 #
 #. [message]: speaker=Urza Afalas
 msgid   "Keep moving!"
@@ -1824,8 +1824,8 @@ msgstr  "Daqui podes ver os bancos do rio! Depois deles veremos o sol "
 #. [message]: race=elf
 msgid   "You humans have kidnapped Mebrin the Sage. You will pay for your "
         "crimes."
-msgstr  "Vós, humanos, sequestraram Mebrin, o Sábio. Pagarão pelos vossos "
-        "crimes."
+msgstr  "Vocês, os humanos, sequestraram Mebrin, o Sábio. Vocês irão pagar "
+        "pelos vossos crimes."
 #
 #. [message]: id=Deoran
 msgid   "Your sage Mebrin is the criminal. He practices necromancy and now "
