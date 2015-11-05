@@ -36,7 +36,7 @@ msgstr "<a href='http://www.wesnoth.org'>"
 #. type: Attribute 'alt' of: <html><body><div><div><a><img>
 #: template.html:27
 msgid "Wesnoth Logo"
-msgstr "Logo de Wesnoth"
+msgstr "Logótipo do Wesnoth"
 
 # type: Content of: <html><body><div><div><div>
 #. type: Content of: <html><body><div><div><div><div>
@@ -51,7 +51,7 @@ msgid ""
 "<i>November 2014.</i> As the year comes to an end, a new stable release "
 "series begins."
 msgstr ""
-"<i>Novembro de 2014.</i> Com o terminar do ano, um novo ciclo estável começa."
+"<i>Novembro de 2014.</i> Com o ano a chegar ao fim, um novo lançamento estável."
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:34
@@ -70,8 +70,8 @@ msgid ""
 "updated unit animations, hundreds of bug fixes, and a vastly improved map "
 "editor. Try out the new features for yourself, or read on for more details..."
 msgstr ""
-"Esta versão traz melhorias em todos aspetos, incluindo uma interface gráfica "
-"totalmente nova, uma nova fação para os jogos em rede, dezenas de novos "
+"Este lançamento traz muitas melhorias em todas as áreas, incluindo uma interface gráfica "
+"totalmente renovada, uma nova fação para os jogos em rede, dezenas de novos "
 "retratos, animações atualizadas, centenas de erros corrigidos e um editor de "
 "mapa ainda mais completo. Tenta as novidades já agora, ou continua a ler "
 "para mais detalhes ..."
@@ -130,7 +130,7 @@ msgstr "<a href='images/start-2.png'>"
 #: template.html:58 template.html:72 template.html:86 template.html:102
 #: template.html:116
 msgid "Wesnoth Screenshot"
-msgstr "Imagem de ecrã em Wesnoth"
+msgstr "Captura de Ecrã do Wesnoth"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:61
@@ -204,7 +204,7 @@ msgstr ""
 #. type: Content of: <html><body><div><div><h4>
 #: template.html:69
 msgid "Campaigns"
-msgstr "As campanhas"
+msgstr "Campanhas"
 
 # type: Content of: <html><body><div><div><div><div><div><a>
 #. type: Content of: <html><body><div><div><div><div><a>
@@ -271,7 +271,7 @@ msgstr ""
 #. type: Content of: <html><body><div><div><h4>
 #: template.html:83
 msgid "Multiplayer"
-msgstr "Jogo em rede"
+msgstr "Jogo em Rede"
 
 # type: Content of: <html><body><div><div><div><div><div><a>
 #. type: Content of: <html><body><div><div><div><div><a>
@@ -394,7 +394,7 @@ msgstr ""
 #. type: Content of: <html><body><div><div><h4>
 #: template.html:99
 msgid "General"
-msgstr "Em geral"
+msgstr "Geral"
 
 # type: Content of: <html><body><div><div><div><div><div><a>
 #. type: Content of: <html><body><div><div><div><div><a>
@@ -475,7 +475,7 @@ msgstr ""
 #. type: Content of: <html><body><div><div><h3>
 #: template.html:113
 msgid "For Content Creators"
-msgstr "Para criadores de extras"
+msgstr "Para Criadores de Conteúdo"
 
 # type: Content of: <html><body><div><div><div><div><div><a>
 #. type: Content of: <html><body><div><div><div><div><a>
@@ -606,7 +606,7 @@ msgstr ""
 #. type: Content of: <html><body><div><div><h2>
 #: template.html:133
 msgid "Download"
-msgstr "Baixar"
+msgstr "Transferir"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:135
@@ -675,13 +675,13 @@ msgid ""
 "downloading the <a href='http://wiki.wesnoth.org/Download_Xdeltas'>Xdelta</"
 "a> files only."
 msgstr ""
-"Se já baixou uma versão anterior do jogo, talvez seja melhor baixar apenas "
-"os arquivos <a href='http://wiki.wesnoth.org/Download_Xdeltas'>Xdelta</a>."
+"Se já transferiu versões anteriores do jogo, talvez esteja interessado em "
+"transferir apenas os ficheiros <a href='http://wiki.wesnoth.org/Download_Xdeltas'>Xdelta</a>."
 
 #. type: Content of: <html><body><div><div><h2>
 #: template.html:150
 msgid "Contribute"
-msgstr "Como contribuir"
+msgstr "Como Contribuir"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:152
@@ -712,14 +712,14 @@ msgid ""
 "Besides creating your own add-on content, there are many other ways you can "
 "help <cite>Wesnoth</cite>:"
 msgstr ""
-"Além de criares a tua própria campanha, ainda existem mais maneiras de "
-"contribuir ao projeto de <cite>Wesnoth</cite>:"
+"Além de criar o seu próprio conteúdo de complementos, ainda existem muitas mais maneiras de "
+"ajudar no <cite>Wesnoth</cite>:"
 
 # type: Content of: <html><body><div><div><div><a>
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:157
 msgid "<a href='http://wiki.wesnoth.org/Project'>Contribute</a> code"
-msgstr "<a href='http://wiki.wesnoth.org/Project'>Como contribuir</a> código"
+msgstr "<a href='http://wiki.wesnoth.org/Project'>Como Contribuir</a> código"
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:158
@@ -729,8 +729,8 @@ msgid ""
 "f=23'>add-ons</a>"
 msgstr ""
 "<a href='http://forums.wesnoth.org/viewforum.php?f=9'>Cria</a> arte para o "
-"jogo principal ou qualquer <a href='http://forums.wesnoth.org/viewforum.php?"
-"f=23'>extra</a> feito pela comunidade."
+"jogo principal ou para qualquer <a href='http://forums.wesnoth.org/viewforum.php?"
+"f=23'>complementos</a> criados pela comunidade."
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:159
@@ -739,7 +739,7 @@ msgid ""
 "into your language"
 msgstr ""
 "<a href='http://wiki.wesnoth.org/WesnothTranslations'>Traduz</a> o jogo para "
-"o teu idioma."
+"o seu idioma."
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:160
@@ -747,18 +747,18 @@ msgid ""
 "<a href='http://forums.wesnoth.org/viewforum.php?f=14'>Produce</a> new music "
 "tracks and sound effects"
 msgstr ""
-"<a href='http://forums.wesnoth.org/viewforum.php?f=14'>Compõe</a> novas "
-"bandas musicais e efeitos sonoros."
+"<a href='http://forums.wesnoth.org/viewforum.php?f=14'>Compõe</a> novas faixas "
+"de musica e efeitos de som."
 
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:161
 msgid "Spread the word about <cite>Wesnoth</cite> on the Internet!"
-msgstr "Divulga <cite>Wesnoth</cite> na Internet!"
+msgstr "Divulgue o <cite>Wesnoth</cite> na Internet!"
 
 #. type: Content of: <html><body><div><div><h2>
 #: template.html:166
 msgid "More Info"
-msgstr "Mais Informações"
+msgstr "Mais Informação"
 
 # type: Content of: <html><body><div><div><div><a>
 #. type: Content of: <html><body><div><div><ul><li>
@@ -766,7 +766,7 @@ msgstr "Mais Informações"
 msgid ""
 "<a href='http://1.12-changelog.wesnoth.org/'>Full Changelog</a> (English)"
 msgstr ""
-"<a href='http://1.12-changelog.wesnoth.org/'>Todas as novidades</a> (em "
+"<a href='http://1.12-changelog.wesnoth.org/'>Todos os Registos de Alterações</a> (em "
 "Inglês)"
 
 # type: Content of: <html><body><div><div><div><a>
@@ -775,28 +775,28 @@ msgstr ""
 msgid ""
 "<a href='http://www.wesnoth.org/manual/1.12/manual.en.html'>User’s Manual</a>"
 msgstr ""
-"<a href='http://www.wesnoth.org/manual/1.12/manual.pt.html'>Manual de "
+"<a href='http://www.wesnoth.org/manual/1.12/manual.pt.html'>Manual do "
 "Utilizador</a>"
 
 # type: Content of: <html><body><div><div><div><a>
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:171
 msgid "<a href='http://www.wesnoth.org'>Official Website</a> (English)"
-msgstr "<a href='http://www.wesnoth.org'>Página Oficial</a> (em Inglês)"
+msgstr "<a href='http://www.wesnoth.org'>Site da Web Oficial</a> (em Inglês)"
 
 # type: Content of: <html><body><div><div><div><a>
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:173
 msgid ""
 "<a href='http://www.wesnoth.org/start/1.6'>Wesnoth 1.6 Release Notes</a>"
-msgstr "<a href='http://www.wesnoth.org/start/1.6'>Introdução à versão 1.6</a>"
+msgstr "<a href='http://www.wesnoth.org/start/1.6'>Notas de Lançamento da versão 1.6</a>"
 
 # type: Content of: <html><body><div><div><div><a>
 #. type: Content of: <html><body><div><div><ul><li>
 #: template.html:174
 msgid ""
 "<a href='http://www.wesnoth.org/start/1.8'>Wesnoth 1.8 Release Notes</a>"
-msgstr "<a href='http://www.wesnoth.org/start/1.6'>Introdução à versão 1.8</a>"
+msgstr "<a href='http://www.wesnoth.org/start/1.6'>Notas de Lançamento da versão 1.8</a>"
 
 # type: Content of: <html><body><div><div><div><a>
 #. type: Content of: <html><body><div><div><ul><li>
@@ -804,7 +804,7 @@ msgstr "<a href='http://www.wesnoth.org/start/1.6'>Introdução à versão 1.8</
 msgid ""
 "<a href='http://www.wesnoth.org/start/1.10'>Wesnoth 1.10 Release Notes</a>"
 msgstr ""
-"<a href='http://www.wesnoth.org/start/1.6'>Introdução à versão 1.10</a>"
+"<a href='http://www.wesnoth.org/start/1.6'>Notas de Lançamento da versão 1.10</a>"
 
 #. type: Content of: <html><body><div><div><p>
 #: template.html:186
@@ -815,12 +815,12 @@ msgstr "Esta página também está disponível nos seguintes idiomas:"
 #: template.html:190
 msgid "Copyright &#169; 2003&#8211;2014 The Battle for Wesnoth Project"
 msgstr ""
-"Todos os direitos reservados &#169; 2003&#8211;2014 pelo projeto da Batalha "
-"por Wesnoth"
+"Direitos de Autor &#169; 2003&#8211;2014 A Batalha para o Projeto "
+"Wesnoth"
 
 #, fuzzy
 #~ msgid "Battle for Wesnoth 1.12 Release Notes"
-#~ msgstr "Battle for Wesnoth 1.0 Notas de Liberação"
+#~ msgstr "Batalha para o Wesnoth 1.12 - Notas de Lançamento"
 
 #, fuzzy
 #~ msgid ""
@@ -840,7 +840,7 @@ msgstr ""
 
 #, fuzzy
 #~ msgid "<a href='#game'>What’s New in Wesnoth 1.12</a>"
-#~ msgstr "Battle for Wesnoth 1.0"
+#~ msgstr "Batalha para Wesnoth 1.12"
 
 # type: Content of: <html><body><div><div><div>
 #~ msgid "<br/>"
